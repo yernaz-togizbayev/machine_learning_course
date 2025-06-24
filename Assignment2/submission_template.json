@@ -1,0 +1,18 @@
+{
+    "UUID": null, 
+    "Task1.1": {
+        "len(orders)": null,
+        "len(unique_items)": null,
+        "len(mapped_records)": null
+    },
+    "Task1.2": {
+        "most_frequent_item": null,
+        "len(frequent_itemsets)": null
+    },
+    "Task1.3": {
+        "recommendation_for_pastry_and_soda": null,
+        "confidence_for_recommendation_for_pastry_and_soda": null,
+        "recommendations_for_sausage": null,
+        "confidences_for_recommendations_for_sausage": null
+    }
+}

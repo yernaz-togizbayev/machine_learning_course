@@ -1,0 +1,2185 @@
+beef;bottled beer;specialty chocolate;whole milk;yogurt
+brown bread;canned beer;frankfurter;soda;white bread
+brown bread;chicken;tropical fruit;waffles;whipped/sour cream
+UHT-milk;butter;other vegetables;soda;yogurt
+bottled water;fruit/vegetable juice;hamburger meat;soft cheese;specialty chocolate
+brown bread;fish;frozen meals;packaged fruit/vegetables;specialty chocolate
+canned vegetables;chocolate;frankfurter;margarine;yogurt
+chocolate;napkins;other vegetables;specialty bar;yogurt
+butter;other vegetables;seasonal products;shopping bags;tropical fruit
+butter milk;curd;long life bakery product;meat;soda
+bottled water;canned vegetables;chicken;citrus fruit;whole milk
+coffee;hamburger meat;sliced cheese;tropical fruit;whipped/sour cream
+baking powder;domestic eggs;meat;other vegetables;tropical fruit
+bottled water;frankfurter;liquor;specialty chocolate;tropical fruit
+chewing gum;chicken;liquor;soda;yogurt
+chicken;curd;domestic eggs;pastry;sausage
+newspapers;oil;other vegetables;salty snack;syrup
+brown bread;butter;fruit/vegetable juice;spread cheese;whole milk
+canned fish;fruit/vegetable juice;rolls/buns;spices;yogurt
+beef;bottled beer;chocolate;hamburger meat;whole milk
+citrus fruit;herbs;other vegetables;pork;root vegetables
+chicken;curd;hard cheese;other vegetables;pork
+beef;brown bread;citrus fruit;napkins;semi-finished bread
+bottled water;canned beer;dishes;pastry;whole milk
+domestic eggs;fruit/vegetable juice;sausage;sausage;seasonal products
+canned beer;canned vegetables;dessert;frozen vegetables;pip fruit
+frankfurter;hygiene articles;packaged fruit/vegetables;root vegetables;specialty bar
+citrus fruit;ham;red/blush wine;rolls/buns;specialty chocolate
+butter;sausage;soda;specialty bar;whipped/sour cream
+UHT-milk;butter milk;cream cheese ;pork;tropical fruit
+berries;domestic eggs;frozen vegetables;pork;whole milk
+canned beer;citrus fruit;condensed milk;rolls/buns;skin care
+butter milk;canned beer;margarine;semi-finished bread;yogurt
+berries;cat food;coffee;cream cheese ;grapes
+chocolate marshmallow;condensed milk;pastry;rice;tropical fruit
+baking powder;canned beer;chicken;rolls/buns;whipped/sour cream
+beverages;condensed milk;frozen vegetables;misc. beverages;rolls/buns
+coffee;pastry;pork;root vegetables;soda
+other vegetables;sausage;semi-finished bread;whole milk;yogurt
+canned beer;newspapers;root vegetables;whole milk;whole milk
+chicken;condensed milk;ham;other vegetables;whipped/sour cream
+frozen meals;root vegetables;soda;spread cheese;turkey
+Instant food products;margarine;root vegetables;tropical fruit;whole milk
+chocolate;frozen vegetables;root vegetables;sausage;whole milk
+chewing gum;condensed milk;ham;packaged fruit/vegetables;soda
+bottled beer;pickled vegetables;rolls/buns;root vegetables;yogurt
+canned beer;chicken;ham;napkins;other vegetables
+canned beer;chewing gum;margarine;rolls/buns;tropical fruit
+brown bread;hard cheese;other vegetables;waffles;whole milk
+butter;citrus fruit;salty snack;sausage;specialty bar
+bottled beer;onions;other vegetables;sausage;soda
+butter;frankfurter;grapes;semi-finished bread;whole milk
+butter;onions;rolls/buns;rolls/buns;whole milk
+frozen vegetables;long life bakery product;root vegetables;sausage;whole milk
+curd cheese;fruit/vegetable juice;herbs;other vegetables;zwieback
+bottled beer;mustard;pip fruit;red/blush wine;yogurt
+misc. beverages;sausage;soda;specialty bar;whole milk
+pip fruit;tropical fruit;yogurt;yogurt;yogurt
+red/blush wine;rolls/buns;sausage;soda;whole milk
+bottled beer;canned beer;rolls/buns;specialty chocolate;whole milk
+bottled water;frankfurter;liquor;other vegetables;zwieback
+bottled beer;chewing gum;frozen vegetables;specialty cheese;whole milk
+brown bread;detergent;frankfurter;frozen potato products;roll products 
+bottled beer;hard cheese;other vegetables;whole milk;yogurt
+citrus fruit;frankfurter;newspapers;salty snack;white wine
+butter;flour;hard cheese;pork;shopping bags
+bottled water;canned vegetables;flour;salty snack;sugar
+bottled beer;chicken;frozen meals;whipped/sour cream;whole milk
+chocolate;frozen vegetables;other vegetables;pip fruit;rolls/buns
+UHT-milk;cream cheese ;curd;root vegetables;sausage
+frozen vegetables;rolls/buns;root vegetables;seasonal products;specialty chocolate;whole milk;whole milk
+hard cheese;herbs;long life bakery product;pork;sugar
+bottled water;chicken;processed cheese;whole milk
+coffee;pip fruit;sausage;tropical fruit
+bottled water;coffee;cream cheese ;sausage
+frozen vegetables;pork;sausage;whole milk
+beef;berries;bottled beer;whole milk
+curd cheese;root vegetables;semi-finished bread;soda
+beef;berries;brown bread;frankfurter
+fruit/vegetable juice;pip fruit;sausage;whole milk
+citrus fruit;herbs;oil;soda
+brown bread;pork;rolls/buns;yogurt
+detergent;shopping bags;soft cheese;tropical fruit
+butter;grapes;newspapers;pip fruit
+bottled water;frankfurter;other vegetables;sausage
+chicken;finished products;fruit/vegetable juice;meat
+fruit/vegetable juice;liver loaf;whole milk;yogurt
+bottled water;citrus fruit;citrus fruit;frankfurter
+butter milk;citrus fruit;other vegetables;soda
+detergent;rolls/buns;sausage;whole milk
+frankfurter;hamburger meat;white bread;whole milk
+chocolate marshmallow;root vegetables;sausage;soda
+soda;sugar;whole milk;whole milk
+nuts/prunes;rolls/buns;sausage;whole milk
+beef;citrus fruit;waffles;waffles
+butter;citrus fruit;pip fruit;whole milk
+margarine;processed cheese;rolls/buns;whole milk
+onions;pork;soda;tropical fruit
+berries;frankfurter;rolls/buns;tropical fruit
+bottled water;domestic eggs;packaged fruit/vegetables;pork
+brown bread;chocolate;rolls/buns;whole milk
+berries;cream cheese ;fruit/vegetable juice;tropical fruit
+canned beer;citrus fruit;whole milk;yogurt
+brown bread;chocolate marshmallow;grapes;red/blush wine;tropical fruit;yogurt
+butter;chicken;hamburger meat;rolls/buns
+hamburger meat;hygiene articles;soda;tropical fruit
+pork;rolls/buns;whole milk;yogurt
+fish;other vegetables;root vegetables;tropical fruit
+chicken;dessert;frankfurter;processed cheese
+packaged fruit/vegetables;pip fruit;root vegetables;sliced cheese
+pastry;pip fruit;rolls/buns;yogurt
+UHT-milk;herbs;other vegetables;pip fruit
+bottled beer;cream cheese ;misc. beverages;other vegetables
+frankfurter;margarine;rolls/buns;shopping bags
+dessert;salt;sparkling wine;whole milk
+candy;ice cream;root vegetables;specialty bar
+bottled water;curd;frozen meals;sausage
+bottled water;curd cheese;napkins;sausage
+berries;frankfurter;frankfurter;tropical fruit
+cake bar;herbs;rolls/buns;whole milk
+coffee;grapes;newspapers;onions
+berries;butter;sausage;tropical fruit
+bottled beer;curd;hamburger meat;sweet spreads
+rolls/buns;sausage;tropical fruit;yogurt
+canned beer;citrus fruit;frozen meals;soda
+fruit/vegetable juice;nuts/prunes;pastry;rolls/buns
+canned beer;dessert;grapes;whole milk
+bottled beer;canned beer;grapes;yogurt
+bottled water;citrus fruit;frankfurter;fruit/vegetable juice
+domestic eggs;other vegetables;root vegetables;whole milk
+margarine;other vegetables;rolls/buns;whole milk
+other vegetables;rolls/buns;white bread;whole milk
+canned beer;citrus fruit;rolls/buns;whole milk
+butter;frankfurter;specialty bar;yogurt
+beef;frankfurter;frozen fish;napkins;rice
+bottled beer;butter milk;detergent;ham;soda
+hamburger meat;margarine;pickled vegetables;sausage;tropical fruit
+flower (seeds);pasta;rolls/buns;root vegetables;sausage
+cream cheese ;other vegetables;root vegetables;specialty chocolate;tropical fruit
+beef;long life bakery product;margarine;other vegetables;sausage
+candles;curd;other vegetables;rolls/buns;spread cheese
+canned beer;detergent;frozen dessert;grapes;sugar
+bottled water;napkins;rice;root vegetables;shopping bags
+coffee;red/blush wine;sausage;shopping bags;specialty bar
+beef;butter;margarine;popcorn;pork
+beef;berries;butter milk;sliced cheese;tropical fruit;yogurt
+UHT-milk;beverages;pork;sliced cheese;whole milk
+berries;cream cheese ;hamburger meat;liquor
+candy;coffee;other vegetables;whole milk
+meat;whole milk;yogurt;yogurt;yogurt
+bottled beer;cat food;citrus fruit;newspapers;white wine
+canned beer;chicken;citrus fruit;frankfurter;frozen vegetables;oil;soda
+bottled water;citrus fruit;citrus fruit;pickled vegetables;salad dressing;whole milk
+cream cheese ;detergent;root vegetables;sausage;yogurt
+citrus fruit;liquor;rolls/buns;tropical fruit;whole milk
+cream cheese ;onions;other vegetables;root vegetables;root vegetables;tropical fruit;yogurt
+candy;chicken;margarine;pastry;pip fruit;soda;whole milk
+chocolate;fruit/vegetable juice;other vegetables;pip fruit;root vegetables;turkey;yogurt
+berries;frozen vegetables;pastry;rolls/buns;rolls/buns;tropical fruit;whole milk
+onions;pip fruit;processed cheese;sugar;whole milk;whole milk;whole milk
+butter;chicken;finished products;herbs;rolls/buns;rolls/buns;white bread
+beverages;frozen vegetables;meat;onions;pork;rolls/buns;root vegetables
+curd;hamburger meat;instant coffee;margarine;misc. beverages;pip fruit;whole milk
+frankfurter;frozen fish;napkins;pork;pork;rolls/buns;waffles
+berries;canned beer;cat food;long life bakery product;spread cheese;turkey;whole milk
+finished products;onions;pasta;pastry;pork;soda;tropical fruit
+UHT-milk;beef;brown bread;brown bread;pickled vegetables;red/blush wine;rolls/buns
+berries;brown bread;other vegetables;pip fruit;rolls/buns;sauces;sausage
+ham;other vegetables;soda;sugar;tropical fruit;white bread;whole milk
+UHT-milk;chicken;chicken;cream cheese ;fish;hard cheese;other vegetables
+domestic eggs;pastry;sausage;sliced cheese;soda;soda;whole milk
+beverages;brown bread;pasta;pip fruit;rolls/buns;sausage;tropical fruit
+cake bar;curd;other vegetables;rolls/buns;rolls/buns;tropical fruit;whole milk
+bottled beer;dessert;other vegetables;pip fruit;rolls/buns;root vegetables;shopping bags
+dessert;frankfurter;margarine;pip fruit;soda;whole milk;yogurt
+light bulbs;liquor (appetizer);rolls/buns;sausage;tropical fruit;whole milk;yogurt
+bottled water;frankfurter;frozen vegetables;salty snack;soda;soda;yogurt
+ham;pastry;processed cheese;rolls/buns;root vegetables;soups;whole milk
+bottled beer;cling film/bags;condensed milk;pip fruit;pot plants;shopping bags;soda
+dish cleaner;domestic eggs;other vegetables;rolls/buns;sausage;sausage;soda
+UHT-milk;artif. sweetener;bottled beer;butter;candles;chewing gum;sausage
+butter milk;canned beer;pork;rolls/buns;sausage;whole milk;yogurt
+butter milk;citrus fruit;dessert;salty snack;sausage;specialty chocolate;whole milk
+beef;beef;bottled water;flour;instant coffee;pork;salty snack
+bottled water;dog food;domestic eggs;meat;other vegetables;root vegetables;whole milk
+beef;bottled beer;citrus fruit;citrus fruit;dishes;whipped/sour cream;whole milk
+beef;ice cream;other vegetables;prosecco;sausage;waffles;whole milk
+UHT-milk;beef;bottled beer;pip fruit;salty snack;whole milk;yogurt
+berries;brown bread;newspapers;rolls/buns;whole milk;yogurt;zwieback
+UHT-milk;misc. beverages;rolls/buns;rolls/buns;root vegetables;spread cheese;sugar
+citrus fruit;citrus fruit;detergent;newspapers;salty snack;whole milk;yogurt
+citrus fruit;flower (seeds);other vegetables;pork;tropical fruit;whole milk;yogurt
+candles;frankfurter;grapes;herbs;other vegetables;whole milk;yogurt
+canned beer;margarine;pastry;pickled vegetables;pork;sausage;whipped/sour cream
+butter;canned vegetables;domestic eggs;rolls/buns;salt;tropical fruit;whole milk
+bottled beer;butter;citrus fruit;frankfurter;oil;sausage;soda
+beverages;canned beer;canned beer;chewing gum;frozen fish;other vegetables;sausage;shopping bags;yogurt
+citrus fruit;curd;detergent;other vegetables;pastry;soda;syrup;tropical fruit;whole milk
+canned beer;margarine;rolls/buns;rolls/buns;salty snack;soda;soda;waffles;whipped/sour cream
+beef;cake bar;candles;curd;flour;rolls/buns;tropical fruit;whipped/sour cream;whole milk
+butter milk;chewing gum;chicken;domestic eggs;ham;shopping bags;shopping bags;white bread;whole milk
+chocolate;cream cheese ;flour;frankfurter;hard cheese;other vegetables;sausage;sausage;tropical fruit
+other vegetables;pastry;rolls/buns;sausage;soda;soda;softener;sugar;whole milk
+cake bar;citrus fruit;frankfurter;ice cream;other vegetables;pip fruit;rolls/buns;spread cheese;yogurt
+flour;onions;rolls/buns;sausage;soda;specialty chocolate;tropical fruit;whipped/sour cream;yogurt
+artif. sweetener;baby cosmetics;beef;domestic eggs;frankfurter;frankfurter;ham;margarine;other vegetables
+beef;curd;frankfurter;frozen meals;meat;sugar;waffles;white bread;whole milk
+berries;condensed milk;domestic eggs;frankfurter;frozen fish;liver loaf;rolls/buns;sliced cheese;whole milk
+bottled water;butter;citrus fruit;finished products;other vegetables;other vegetables;rolls/buns;rolls/buns;yogurt
+beef;beverages;frankfurter;other vegetables;rolls/buns;softener;vinegar;white bread;whole milk
+bottled beer;canned beer;domestic eggs;ham;hamburger meat;pickled vegetables;rolls/buns;salty snack;soda
+butter;butter;chocolate;hard cheese;other vegetables;pastry;processed cheese;rolls/buns;whole milk
+cat food;frankfurter;frozen meals;margarine;misc. beverages;other vegetables;sausage;whole milk;yogurt
+citrus fruit;curd;dessert;other vegetables;pastry;red/blush wine;sausage;specialty chocolate;white bread
+bottled beer;brown bread;butter;coffee;frankfurter;frankfurter;margarine;soda;sugar
+dessert;dessert;grapes;pip fruit;pork;sausage;soda;whole milk;yogurt
+UHT-milk;canned beer;chicken;citrus fruit;hygiene articles;napkins;shopping bags;white wine;whole milk
+bottled beer;cat food;citrus fruit;flour;frankfurter;frozen vegetables;grapes;grapes;other vegetables
+bottled water;dog food;finished products;frankfurter;liquor (appetizer);newspapers;shopping bags;tropical fruit;yogurt
+beef;beef;brown bread;chocolate;dessert;processed cheese;rolls/buns;shopping bags;soda
+canned beer;dishes;flower (seeds);herbs;mayonnaise;seasonal products;soda;soda;yogurt
+bottled beer;bottled water;detergent;frankfurter;frankfurter;fruit/vegetable juice;male cosmetics;rolls/buns;root vegetables
+curd;curd;flower soil/fertilizer;frankfurter;margarine;other vegetables;pork;pork;sausage
+baking powder;frozen fish;frozen vegetables;frozen vegetables;oil;other vegetables;rolls/buns;sausage;whole milk
+beef;detergent;domestic eggs;frozen vegetables;grapes;newspapers;processed cheese;tropical fruit;tropical fruit
+canned beer;citrus fruit;frozen vegetables;ham;onions;other vegetables;tropical fruit;whole milk;yogurt
+canned beer;curd;finished products;frankfurter;hamburger meat;packaged fruit/vegetables;sweet spreads;whipped/sour cream;white bread
+brown bread;citrus fruit;domestic eggs;frankfurter;other vegetables;other vegetables;sugar;whole milk;zwieback
+berries;pip fruit;root vegetables;root vegetables;softener;specialty chocolate;sweet spreads;whole milk;yogurt
+frankfurter;fruit/vegetable juice;fruit/vegetable juice;ham;other vegetables;other vegetables;other vegetables;rolls/buns;rolls/buns
+brandy;frozen dessert;pork;rolls/buns;sausage;shopping bags;soda;whole milk;yogurt
+frankfurter;hygiene articles;other vegetables;sausage;sausage;sausage;shopping bags;shopping bags;whole milk
+chocolate;curd;hard cheese;liver loaf;mayonnaise;pip fruit;rolls/buns;root vegetables;root vegetables
+bottled beer;canned beer;chicken;curd;hygiene articles;soda;soda;whole milk;whole milk
+beverages;beverages;butter;butter;cream cheese ;frankfurter;hamburger meat;root vegetables;soda
+hamburger meat;liver loaf;other vegetables;rolls/buns;sausage;whipped/sour cream;white bread;whole milk;whole milk
+bottled beer;chicken;frankfurter;meat;misc. beverages;other vegetables;pastry;root vegetables;salt
+berries;shopping bags;soups;sweet spreads;sweet spreads;tropical fruit;tropical fruit;yogurt;yogurt
+bottled water;curd;hard cheese;nuts/prunes;rolls/buns;root vegetables;root vegetables;sausage;whole milk
+beef;berries;fruit/vegetable juice;misc. beverages;pip fruit;pork;root vegetables;sausage;soda
+frozen dessert;grapes;onions;root vegetables;salty snack;tropical fruit;whipped/sour cream;whole milk;yogurt
+domestic eggs;other vegetables;pork;root vegetables;sausage;shopping bags;soda;vinegar;whole milk
+bottled water;canned beer;domestic eggs;frozen dessert;soda;soda;specialty bar;tropical fruit;whole milk
+beef;beef;brown bread;chicken;dessert;margarine;newspapers;newspapers;pork
+cream cheese ;dish cleaner;frankfurter;hygiene articles;mustard;other vegetables;root vegetables;whole milk;whole milk
+bottled beer;bottled water;bottled water;frozen meals;oil;rolls/buns;sausage;tropical fruit;waffles
+bottled water;chocolate;chocolate;other vegetables;pasta;pip fruit;shopping bags;yogurt
+chicken;citrus fruit;cream cheese ;curd;other vegetables;pastry;pip fruit;specialty chocolate
+bottled beer;chicken;chocolate;flour;frankfurter;frankfurter;rolls/buns;whole milk
+other vegetables;root vegetables;shopping bags;white bread;whole milk;whole milk;whole milk;yogurt
+fruit/vegetable juice;ice cream;margarine;packaged fruit/vegetables;pasta;pip fruit;rolls/buns;rolls/buns
+flour;hamburger meat;onions;pet care;root vegetables;tropical fruit;whole milk;yogurt
+beef;chicken;jam;long life bakery product;onions;pasta;tropical fruit;whole milk
+ham;pasta;pastry;root vegetables;sausage;soda;tropical fruit;turkey
+domestic eggs;hamburger meat;instant coffee;newspapers;other vegetables;pastry;root vegetables;yogurt
+chewing gum;coffee;frankfurter;hamburger meat;pastry;root vegetables;sausage;soda
+brown bread;frankfurter;frozen vegetables;margarine;margarine;margarine;soda;whole milk
+curd;fruit/vegetable juice;grapes;grapes;other vegetables;sausage;tropical fruit;whipped/sour cream
+butter;canned beer;canned fish;domestic eggs;root vegetables;soda;specialty chocolate;specialty chocolate
+bottled beer;brown bread;dishes;hard cheese;pip fruit;rolls/buns;soda;whole milk
+chewing gum;hamburger meat;pork;sausage;soda;soft cheese;whole milk;yogurt
+brown bread;citrus fruit;domestic eggs;frankfurter;rubbing alcohol;shopping bags;tropical fruit;whole milk
+canned beer;citrus fruit;frankfurter;hard cheese;specialty chocolate;tropical fruit;whole milk;yogurt
+cake bar;coffee;curd;frankfurter;hamburger meat;pork;root vegetables;soda
+berries;beverages;canned beer;canned beer;chicken;sausage;whole milk;zwieback
+grapes;hamburger meat;meat;oil;other vegetables;pet care;rolls/buns;whole milk
+beef;curd;domestic eggs;frankfurter;frankfurter;hard cheese;processed cheese;shopping bags
+bottled beer;butter;chicken;other vegetables;root vegetables;sausage;waffles;whipped/sour cream
+cream cheese ;curd;fruit/vegetable juice;other vegetables;waffles;whole milk;yogurt;yogurt
+candy;chocolate marshmallow;citrus fruit;ham;ice cream;specialty bar;sugar;whole milk
+bottled beer;hard cheese;newspapers;soft cheese;tropical fruit;tropical fruit;white wine;whole milk
+grapes;hard cheese;other vegetables;other vegetables;pip fruit;pip fruit;rolls/buns;sausage
+beef;brown bread;citrus fruit;frozen vegetables;long life bakery product;pasta;specialty cheese;whipped/sour cream
+beverages;curd;curd;newspapers;other vegetables;pip fruit;rolls/buns;sausage;soft cheese;specialty bar;yogurt
+beef;beverages;packaged fruit/vegetables;pork;processed cheese;sliced cheese;soda;white wine
+chicken;coffee;domestic eggs;frankfurter;frankfurter;long life bakery product;other vegetables;rolls/buns
+curd;dessert;pastry;rolls/buns;sausage;whole milk;yogurt;yogurt
+bottled water;chewing gum;chicken;newspapers;pastry;sausage;sausage;yogurt
+butter milk;chicken;organic sausage;other vegetables;other vegetables;sausage;tropical fruit;whipped/sour cream
+chicken;chicken;citrus fruit;condensed milk;cream cheese ;napkins;pet care;specialty chocolate
+bottled water;bottled water;coffee;other vegetables;other vegetables;red/blush wine;sugar;whole milk
+candy;ham;hard cheese;pastry;specialty bar;tropical fruit;whole milk;yogurt
+dental care;pasta;pip fruit;popcorn;soda;soda;soda;whole milk
+chicken;citrus fruit;cream cheese ;oil;specialty chocolate;sweet spreads;turkey;whole milk
+canned beer;canned vegetables;dishes;frankfurter;frankfurter;pip fruit;rolls/buns;whole milk
+bottled beer;bottled water;canned beer;curd;dessert;frozen dessert;pip fruit;pork
+UHT-milk;bottled water;fruit/vegetable juice;long life bakery product;other vegetables;pastry;tropical fruit;tropical fruit
+bottled water;chocolate;curd;domestic eggs;frozen meals;hygiene articles;rolls/buns;sausage
+beef;coffee;grapes;meat;other vegetables;whipped/sour cream;whole milk;whole milk
+citrus fruit;citrus fruit;cream cheese ;hard cheese;margarine;napkins;sausage;yogurt
+chewing gum;finished products;onions;pastry;sausage;sliced cheese;whole milk;yogurt
+Instant food products;bottled beer;bottled water;domestic eggs;grapes;rolls/buns;salty snack;sausage
+butter;chewing gum;citrus fruit;cream cheese ;frozen vegetables;light bulbs;liquor;rolls/buns
+butter milk;curd;margarine;rolls/buns;sausage;white bread;whole milk;yogurt
+margarine;meat;other vegetables;other vegetables;other vegetables;pip fruit;pork;root vegetables
+UHT-milk;canned fish;cream cheese ;frankfurter;misc. beverages;nuts/prunes;root vegetables;whole milk
+frozen meals;mayonnaise;meat;napkins;newspapers;other vegetables;roll products ;tropical fruit
+UHT-milk;cat food;chocolate;citrus fruit;rolls/buns;root vegetables;sweet spreads;tropical fruit
+bottled water;bottled water;dog food;pork;rolls/buns;soda;turkey;whole milk
+citrus fruit;frozen meals;margarine;other vegetables;pork;sausage;sausage;yogurt
+beverages;dessert;domestic eggs;hamburger meat;rolls/buns;soda;whole milk;yogurt
+butter;dessert;newspapers;pastry;rolls/buns;shopping bags;soda;whole milk
+beef;brown bread;chicken;grapes;male cosmetics;roll products ;root vegetables;waffles
+flower soil/fertilizer;meat;other vegetables;processed cheese;root vegetables;shopping bags;soda;soda
+beef;cream cheese ;long life bakery product;processed cheese;sausage;tropical fruit;yogurt;yogurt
+bathroom cleaner;chicken;chicken;fruit/vegetable juice;fruit/vegetable juice;grapes;other vegetables;soda
+brown bread;butter milk;cake bar;canned beer;curd;frozen vegetables;sausage;yogurt
+bottled water;coffee;frankfurter;other vegetables;pastry;sausage;soda;whole milk
+butter;curd cheese;frozen meals;hamburger meat;mustard;soda;white wine;yogurt
+frozen potato products;meat;pork;processed cheese;rolls/buns;salty snack;whole milk;whole milk
+artif. sweetener;dog food;frankfurter;grapes;misc. beverages;napkins;sausage;sausage
+bottled beer;bottled water;frozen meals;margarine;onions;other vegetables;soda;white bread
+berries;butter milk;fruit/vegetable juice;other vegetables;pip fruit;soda;sweet spreads;whole milk
+dental care;hygiene articles;liquor;napkins;pastry;rolls/buns;sliced cheese;tropical fruit
+beverages;fruit/vegetable juice;ice cream;other vegetables;other vegetables;prosecco;root vegetables;soda
+brown bread;female sanitary products;flour;packaged fruit/vegetables;rolls/buns;rolls/buns;root vegetables;sauces
+bottled beer;candy;citrus fruit;frankfurter;rolls/buns;whipped/sour cream;whole milk;yogurt
+UHT-milk;canned beer;coffee;house keeping products;other vegetables;pip fruit;whole milk;whole milk
+butter;citrus fruit;grapes;ice cream;margarine;pip fruit;whipped/sour cream;whole milk
+citrus fruit;herbs;other vegetables;pip fruit;pork;red/blush wine;soda;yogurt
+bottled water;other vegetables;other vegetables;other vegetables;rolls/buns;whole milk;whole milk;yogurt
+beef;bottled beer;chocolate;frozen vegetables;other vegetables;other vegetables;pork;snack products
+bottled water;frozen fish;meat;onions;pip fruit;root vegetables;semi-finished bread;whipped/sour cream
+bottled beer;shopping bags;soda;soda;soft cheese;sugar;whole milk;whole milk
+bottled water;butter;canned beer;canned beer;cookware;frozen vegetables;ice cream;other vegetables
+beef;coffee;domestic eggs;other vegetables;tropical fruit;tropical fruit;whole milk;whole milk
+chicken;packaged fruit/vegetables;packaged fruit/vegetables;pasta;pastry;photo/film;sugar;tropical fruit
+fruit/vegetable juice;instant coffee;long life bakery product;rolls/buns;sausage;sausage;shopping bags;sweet spreads
+baking powder;bottled beer;brandy;canned beer;canned beer;curd;sausage;white bread
+butter;fruit/vegetable juice;pastry;rolls/buns;root vegetables;salty snack;semi-finished bread;tropical fruit
+berries;candy;dessert;frozen meals;grapes;long life bakery product;sausage;soda
+bottled water;canned beer;cookware;oil;pork;root vegetables;whole milk;whole milk
+brown bread;coffee;curd;frankfurter;meat;other vegetables;pip fruit;shopping bags
+brown bread;butter;citrus fruit;dessert;hygiene articles;pork;shopping bags;whole milk
+citrus fruit;coffee;coffee;dish cleaner;hamburger meat;mayonnaise;newspapers;other vegetables
+canned beer;chicken;condensed milk;frozen dessert;fruit/vegetable juice;light bulbs;liver loaf;whole milk
+beef;bottled water;frankfurter;ketchup;pastry;pastry;rolls/buns;soda
+bottled water;napkins;pastry;root vegetables;soda;specialty fat;tropical fruit;whole milk
+frankfurter;frozen fish;ham;misc. beverages;photo/film;specialty chocolate;tropical fruit;tropical fruit
+citrus fruit;misc. beverages;packaged fruit/vegetables;root vegetables;root vegetables;sliced cheese;whipped/sour cream;yogurt
+butter;butter milk;grapes;hygiene articles;pudding powder;soda
+butter;citrus fruit;margarine;roll products ;soda;whole milk
+beef;bottled beer;brown bread;cat food;margarine;rolls/buns
+chewing gum;long life bakery product;photo/film;soda;whole milk;yogurt
+berries;butter;cream cheese ;other vegetables;soda;white bread
+domestic eggs;other vegetables;rolls/buns;sausage;waffles;whole milk
+citrus fruit;frozen vegetables;ham;whole milk;whole milk;yogurt
+UHT-milk;butter milk;citrus fruit;frankfurter;spices;tropical fruit
+rolls/buns;root vegetables;whipped/sour cream;whole milk
+brown bread;chewing gum;curd;whole milk
+detergent;hamburger meat;pickled vegetables;whole milk
+bottled water;butter milk;curd;frankfurter
+beef;bottled beer;soda;soda
+brown bread;root vegetables;sausage;soda
+butter milk;cling film/bags;oil;pastry
+grapes;hamburger meat;sausage;soda
+onions;other vegetables;shopping bags;tropical fruit
+canned beer;pork;rolls/buns;whole milk
+pip fruit;pip fruit;sausage;shopping bags
+ice cream;other vegetables;pork;soda
+butter;citrus fruit;ham;tropical fruit
+bottled water;tropical fruit;yogurt;yogurt
+frankfurter;rolls/buns;shopping bags;whole milk
+frankfurter;meat;pip fruit;roll products 
+beef;bottled beer;brown bread;specialty fat
+bottled beer;chewing gum;chocolate;root vegetables
+dish cleaner;ice cream;jam;newspapers
+domestic eggs;other vegetables;red/blush wine;yogurt
+brown bread;frozen dessert;other vegetables;sausage
+rolls/buns;sauces;soda;whipped/sour cream
+berries;berries;brown bread;tropical fruit
+citrus fruit;frozen potato products;rolls/buns;sausage
+cream cheese ;fruit/vegetable juice;shopping bags;whole milk
+beverages;butter milk;fruit/vegetable juice;whole milk
+curd;grapes;soups;whole milk
+bottled beer;canned beer;ice cream;rolls/buns
+hard cheese;other vegetables;whole milk;zwieback
+detergent;ham;pip fruit;whole milk
+bottled water;newspapers;soda;yogurt
+root vegetables;sausage;soda;yogurt
+cookware;pip fruit;rolls/buns;whole milk
+margarine;pastry;pastry;whole milk
+beverages;curd;waffles;waffles
+bottled beer;frozen vegetables;sausage;whole milk
+chicken;citrus fruit;tropical fruit;yogurt
+beverages;curd cheese;rolls/buns;tropical fruit
+ice cream;margarine;whole milk;whole milk
+frankfurter;grapes;napkins;salt;soda
+bottled beer;citrus fruit;hygiene articles;rolls/buns;softener
+cling film/bags;instant coffee;misc. beverages;soda;tropical fruit
+berries;bottled water;frankfurter;pickled vegetables;processed cheese
+bottled beer;bottled water;chocolate;citrus fruit;red/blush wine
+beef;bottled water;citrus fruit;dishes;ham
+frankfurter;herbs;male cosmetics;other vegetables;yogurt
+brown bread;frozen meals;hard cheese;herbs;whole milk
+UHT-milk;bottled beer;newspapers;rolls/buns;tropical fruit
+citrus fruit;frozen vegetables;other vegetables;pip fruit;white wine
+brown bread;candles;salty snack;sausage;white bread
+frozen vegetables;other vegetables;root vegetables;soda;specialty bar
+beef;canned beer;fruit/vegetable juice;newspapers;pork
+chocolate;citrus fruit;long life bakery product;salty snack;whole milk
+beverages;citrus fruit;sausage;whole milk;whole milk
+onions;rolls/buns;root vegetables;shopping bags;tropical fruit
+brown bread;candy;citrus fruit;frankfurter;specialty chocolate
+butter;curd;curd;pastry;whipped/sour cream
+bottled water;cat food;curd;frozen vegetables;tea
+beverages;chicken;curd;frozen meals;whole milk
+bottled beer;house keeping products;tropical fruit;whole milk;whole milk
+onions;other vegetables;rolls/buns;whipped/sour cream;yogurt
+frozen dessert;long life bakery product;pip fruit;pork;whole milk
+beef;butter;frozen potato products;newspapers;root vegetables
+chicken;pip fruit;red/blush wine;rolls/buns;salty snack
+beef;butter;curd;other vegetables;soda
+chocolate;citrus fruit;meat;pastry;rolls/buns
+fish;other vegetables;rolls/buns;sausage;soda
+ice cream;soda;spices;whole milk;yogurt
+detergent;hamburger meat;ice cream;soda;sugar
+bottled water;flour;hamburger meat;tropical fruit;whipped/sour cream
+domestic eggs;other vegetables;tropical fruit;whole milk;yogurt
+beef;butter milk;misc. beverages;pastry;sparkling wine
+curd;flour;frozen meals;sausage;whipped/sour cream
+pip fruit;pip fruit;rolls/buns;rolls/buns;tropical fruit
+hygiene articles;long life bakery product;onions;sugar;yogurt
+fruit/vegetable juice;mustard;napkins;rolls/buns;whole milk
+canned beer;ham;other vegetables;rum;whole milk
+bottled water;frankfurter;ham;shopping bags;specialty cheese
+canned beer;coffee;frozen meals;rolls/buns;soda
+hamburger meat;ice cream;shopping bags;soft cheese;whole milk
+bottled beer;candy;condensed milk;other vegetables;pork
+chewing gum;dishes;white bread;whole milk;whole milk
+bottled beer;meat;other vegetables;roll products ;tropical fruit
+misc. beverages;other vegetables;sausage;whole milk;yogurt
+brown bread;canned beer;fruit/vegetable juice;white bread;whole milk
+bottled water;other vegetables;specialty bar;spread cheese;yogurt
+cake bar;canned fruit;sausage;sausage;whole milk
+beef;curd;rolls/buns;white bread;whole milk
+berries;bottled water;curd;napkins;whole milk
+beef;curd cheese;whipped/sour cream;whole milk;whole milk
+coffee;other vegetables;pork;tidbits;whole milk
+curd;frankfurter;pip fruit;waffles;white bread
+dessert;hard cheese;pip fruit;specialty fat;tropical fruit
+flour;shopping bags;shopping bags;waffles;whole milk
+citrus fruit;dessert;onions;shopping bags;white bread
+coffee;dessert;misc. beverages;onions;spread cheese
+bottled beer;cling film/bags;newspapers;shopping bags;whole milk
+coffee;hard cheese;hygiene articles;pastry;white wine
+chocolate;curd cheese;frankfurter;pastry;soda
+UHT-milk;margarine;other vegetables;whipped/sour cream;white bread
+brandy;chewing gum;male cosmetics;pastry;pork
+frozen dessert;other vegetables;other vegetables;soda;waffles
+finished products;ice cream;pork;rolls/buns;shopping bags
+berries;fruit/vegetable juice;other vegetables;specialty bar;whole milk
+frankfurter;fruit/vegetable juice;hard cheese;rolls/buns;whole milk
+berries;bottled beer;coffee;rice;root vegetables
+coffee;finished products;misc. beverages;other vegetables;rolls/buns
+bottled water;butter;coffee;roll products ;rum
+butter;margarine;sausage;snack products;whipped/sour cream
+beef;flour;other vegetables;soda;soda
+beverages;hamburger meat;soda;tropical fruit;yogurt
+hamburger meat;house keeping products;root vegetables;rum;sausage
+canned beer;frozen fish;frozen vegetables;root vegetables;specialty chocolate
+bottled water;hygiene articles;other vegetables;soda;whole milk
+butter;canned beer;other vegetables;salty snack;sausage
+butter;coffee;frozen fish;tropical fruit;whole milk
+beverages;beverages;domestic eggs;pasta;sugar
+chocolate;pastry;pip fruit;rolls/buns;soda
+brown bread;grapes;kitchen towels;other vegetables;pot plants
+chocolate marshmallow;citrus fruit;pork;whipped/sour cream;white bread
+citrus fruit;fruit/vegetable juice;margarine;pastry;tropical fruit
+frozen meals;fruit/vegetable juice;meat;root vegetables;whole milk
+butter;candy;dental care;fruit/vegetable juice;salty snack
+finished products;fruit/vegetable juice;rolls/buns;tropical fruit;whole milk
+bottled beer;rolls/buns;sugar;yogurt;yogurt
+bottled beer;canned beer;ice cream;newspapers;pastry
+bottled water;cream cheese ;soda;specialty bar;tropical fruit
+bottled water;margarine;onions;other vegetables;whole milk
+flower (seeds);newspapers;pastry;sausage;soda
+UHT-milk;rolls/buns;sausage;soda;soda
+beef;beverages;chocolate;kitchen towels;newspapers
+whipped/sour cream;whipped/sour cream;whole milk;whole milk;yogurt
+pip fruit;pot plants;semi-finished bread;tropical fruit;whole milk
+canned fish;herbs;pastry;whipped/sour cream;yogurt
+roll products ;rolls/buns;rolls/buns;tropical fruit;whole milk
+coffee;hard cheese;roll products ;soft cheese;yogurt
+frozen meals;fruit/vegetable juice;hamburger meat;pastry;whole milk
+ice cream;long life bakery product;pip fruit;rolls/buns;root vegetables
+abrasive cleaner;frankfurter;frozen potato products;newspapers;softener
+brown bread;meat;shopping bags;waffles;whole milk
+bottled water;soda;soda;specialty bar;whole milk
+UHT-milk;butter milk;canned beer;sausage;yogurt
+female sanitary products;frozen potato products;fruit/vegetable juice;other vegetables;whole milk
+beef;other vegetables;root vegetables;shopping bags;tropical fruit
+coffee;frankfurter;sausage;soda;yogurt
+coffee;liquor (appetizer);misc. beverages;root vegetables;sausage
+frozen vegetables;other vegetables;sausage;shopping bags;tropical fruit
+butter;butter milk;frankfurter;root vegetables;vinegar
+beef;frankfurter;frozen dessert;red/blush wine;whole milk
+bottled water;curd;domestic eggs;newspapers;yogurt
+bottled water;butter;citrus fruit;hygiene articles;kitchen towels
+butter;other vegetables;shopping bags;whole milk;yogurt
+bottled water;butter;red/blush wine;root vegetables;whipped/sour cream
+hygiene articles;pastry;sausage;sliced cheese;yogurt
+candy;frankfurter;pip fruit;pip fruit;whole milk
+chicken;liver loaf;rolls/buns;shopping bags;spread cheese
+bottled water;coffee;ham;white wine;whole milk
+brown bread;frankfurter;herbs;rolls/buns;specialty chocolate
+abrasive cleaner;fish;margarine;meat;meat spreads
+butter milk;canned beer;detergent;root vegetables;root vegetables
+chicken;hygiene articles;liquor (appetizer);pip fruit;rolls/buns
+butter milk;other vegetables;packaged fruit/vegetables;sausage;whole milk
+coffee;pastry;pip fruit;seasonal products;whole milk
+coffee;frankfurter;ice cream;other vegetables;rolls/buns
+curd;pip fruit;sausage;yogurt;yogurt
+bottled water;newspapers;root vegetables;whole milk;whole milk
+bottled water;dessert;margarine;other vegetables;shopping bags
+UHT-milk;canned fruit;chewing gum;pip fruit;specialty chocolate
+butter;sausage;whole milk;whole milk;yogurt
+frozen vegetables;hamburger meat;rolls/buns;whole milk;yogurt
+curd;frozen vegetables;hygiene articles;other vegetables;salty snack
+long life bakery product;other vegetables;root vegetables;root vegetables;sausage
+bottled beer;margarine;photo/film;sausage;whipped/sour cream
+bottled water;mustard;pip fruit;sweet spreads;whole milk
+beef;bottled water;hygiene articles;margarine;pip fruit
+hard cheese;other vegetables;pip fruit;pork;sausage
+Instant food products;beverages;brown bread;margarine;pork
+bottled beer;citrus fruit;other vegetables;soft cheese;whole milk
+bottled beer;chocolate;rolls/buns;salty snack;tropical fruit
+bottled beer;frankfurter;frozen vegetables;pastry;sliced cheese
+bottled beer;frozen meals;pasta;soda;sweet spreads
+bottled water;newspapers;root vegetables;shopping bags;soups
+flour;frankfurter;soda;whole milk;whole milk
+candy;rolls/buns;root vegetables;tropical fruit;yogurt
+canned beer;cream cheese ;frozen vegetables;spread cheese;whole milk
+berries;chicken;citrus fruit;instant coffee;whole milk
+citrus fruit;pastry;rolls/buns;whipped/sour cream;whole milk
+artif. sweetener;curd;soda;specialty chocolate;sugar
+citrus fruit;citrus fruit;dishes;domestic eggs;sausage
+butter;citrus fruit;onions;other vegetables;whipped/sour cream
+frankfurter;other vegetables;other vegetables;rolls/buns;shopping bags
+bottled water;domestic eggs;other vegetables;pastry;rolls/buns
+bottled beer;chicken;domestic eggs;other vegetables;soda
+beef;pip fruit;waffles;whole milk;yogurt
+citrus fruit;curd;dessert;other vegetables;rolls/buns
+beverages;oil;soda;specialty cheese;whipped/sour cream
+berries;newspapers;other vegetables;other vegetables;whipped/sour cream
+brandy;frankfurter;other vegetables;ready soups;whole milk
+dessert;meat spreads;pork;tropical fruit;whole milk
+long life bakery product;soda;tropical fruit;tropical fruit;tropical fruit
+dishes;frankfurter;rice;specialty bar;whole milk
+bottled beer;cat food;meat;newspapers;specialty cheese
+bottled beer;bottled water;butter;citrus fruit;soda
+bottled beer;butter;pastry;shopping bags;yogurt
+frankfurter;newspapers;other vegetables;other vegetables;spread cheese
+detergent;frankfurter;ham;popcorn;white wine
+canned beer;frozen dessert;misc. beverages;organic products;whole milk
+canned beer;chocolate;citrus fruit;dish cleaner;waffles
+canned beer;frozen meals;other vegetables;rolls/buns;white bread
+canned beer;citrus fruit;fruit/vegetable juice;other vegetables;specialty bar
+pastry;sausage;soda;spices;whole milk
+beverages;sausage;shopping bags;soda;whole milk
+frankfurter;newspapers;other vegetables;pastry;whole milk
+dessert;dishes;male cosmetics;pip fruit;rice
+beef;canned beer;canned beer;coffee;frozen meals
+dish cleaner;newspapers;tropical fruit;whole milk;yogurt
+UHT-milk;UHT-milk;root vegetables;shopping bags;spread cheese
+curd;dessert;misc. beverages;other vegetables;root vegetables
+berries;chewing gum;fruit/vegetable juice;newspapers;root vegetables
+bottled water;coffee;rolls/buns;root vegetables;whole milk
+canned vegetables;curd;frankfurter;whole milk;whole milk
+brandy;grapes;pastry;pickled vegetables;root vegetables
+grapes;pastry;tropical fruit;white bread;whole milk
+bottled beer;butter;canned beer;chewing gum;fruit/vegetable juice
+flower soil/fertilizer;ice cream;rolls/buns;whipped/sour cream;yogurt
+canned fish;margarine;pasta;rolls/buns;yogurt
+bottled beer;brown bread;curd;other vegetables;tropical fruit
+chocolate;onions;other vegetables;sausage;whole milk
+beef;domestic eggs;frankfurter;root vegetables;specialty fat
+cream cheese ;domestic eggs;liver loaf;root vegetables;white bread
+canned beer;detergent;specialty bar;sugar;whole milk
+butter;butter milk;pork;rolls/buns;soft cheese
+beef;fruit/vegetable juice;margarine;margarine;pork
+baking powder;bottled beer;specialty bar;tropical fruit;yogurt
+domestic eggs;photo/film;pip fruit;rolls/buns;salty snack
+citrus fruit;cream;frozen vegetables;red/blush wine;sausage
+meat;pip fruit;pot plants;salt;tropical fruit
+butter milk;canned beer;rolls/buns;shopping bags;yogurt
+brown bread;cream cheese ;curd;hamburger meat;pip fruit
+berries;other vegetables;root vegetables;salty snack;turkey
+beef;brown bread;cat food;other vegetables;tropical fruit
+canned beer;newspapers;newspapers;sausage;tropical fruit
+citrus fruit;dishes;frankfurter;whipped/sour cream;whole milk
+citrus fruit;coffee;domestic eggs;soda;tropical fruit
+cream cheese ;frankfurter;frozen dessert;other vegetables
+domestic eggs;meat;roll products ;white bread
+bottled water;citrus fruit;citrus fruit;pastry
+brown bread;ice cream;rolls/buns;whole milk
+canned vegetables;frozen meals;other vegetables;turkey
+canned beer;frankfurter;pastry;yogurt
+beef;citrus fruit;pet care;whole milk
+bottled beer;chicken;sausage;whole milk
+curd;frozen vegetables;pet care;whole milk
+napkins;sugar;tropical fruit;yogurt
+citrus fruit;condensed milk;frankfurter;other vegetables
+canned beer;other vegetables;soda;whole milk
+citrus fruit;napkins;rolls/buns;soda
+dessert;other vegetables;pip fruit;red/blush wine
+napkins;pork;sausage;yogurt
+beef;canned beer;pastry;whole milk
+citrus fruit;other vegetables;semi-finished bread;softener
+liquor (appetizer);margarine;rolls/buns;whole milk
+chicken;margarine;other vegetables;popcorn
+meat;other vegetables;soda;whipped/sour cream
+pastry;root vegetables;root vegetables;root vegetables
+canned beer;cat food;ham;whipped/sour cream
+newspapers;rolls/buns;whole milk;whole milk
+oil;pip fruit;whipped/sour cream;whole milk
+baking powder;cream cheese ;frankfurter;yogurt
+citrus fruit;domestic eggs;root vegetables;tropical fruit
+jam;pastry;pip fruit;soda
+beef;cat food;citrus fruit;shopping bags
+rolls/buns;whole milk;yogurt;yogurt
+frozen fish;house keeping products;sausage;sausage
+baking powder;processed cheese;sausage;specialty cheese
+domestic eggs;mayonnaise;sausage;soda
+hygiene articles;sausage;spread cheese;whole milk
+bottled beer;bottled water;mustard;sausage
+detergent;ketchup;newspapers;other vegetables
+canned beer;mustard;pastry;yogurt
+cream cheese ;fish;red/blush wine;tropical fruit
+canned beer;coffee;curd;flour
+canned beer;instant coffee;pip fruit;yogurt
+beverages;bottled beer;fruit/vegetable juice;hard cheese
+citrus fruit;rolls/buns;soda;spread cheese
+bottled water;bottled water;newspapers;specialty bar
+bottled water;dessert;frankfurter;root vegetables
+fruit/vegetable juice;rolls/buns;seasonal products;tropical fruit
+butter milk;cat food;meat;pork
+UHT-milk;bottled water;chicken;yogurt
+chicken;cream cheese ;dishes;rolls/buns
+napkins;rolls/buns;salt;soda
+dessert;rolls/buns;semi-finished bread;yogurt
+frozen meals;pastry;sausage;yogurt
+other vegetables;sausage;soda;white bread
+dishes;hard cheese;other vegetables;shopping bags
+condensed milk;rolls/buns;soda;whole milk
+frozen vegetables;rolls/buns;white wine;yogurt
+frankfurter;newspapers;other vegetables;root vegetables
+coffee;hard cheese;margarine;turkey
+beef;citrus fruit;frozen dessert;root vegetables
+ham;rolls/buns;rolls/buns;tropical fruit
+frankfurter;red/blush wine;rolls/buns;whole milk
+berries;onions;pip fruit;yogurt
+citrus fruit;citrus fruit;cream cheese ;specialty chocolate
+butter;meat;sausage;tropical fruit
+frankfurter;onions;pip fruit;rolls/buns
+grapes;liver loaf;photo/film;soda
+canned beer;fruit/vegetable juice;pork;prosecco
+chocolate;frozen fish;rolls/buns;sausage
+herbs;pastry;seasonal products;yogurt
+bottled beer;chicken;grapes;root vegetables
+bottled beer;sausage;sausage;spread cheese
+canned vegetables;condensed milk;frankfurter;liver loaf
+frankfurter;root vegetables;whole milk;yogurt
+bottled water;chocolate;oil;sliced cheese
+frankfurter;grapes;pork;rolls/buns
+newspapers;soda;tropical fruit;whole milk
+sausage;soda;specialty bar;spread cheese
+mayonnaise;onions;spread cheese;tropical fruit
+candy;herbs;sausage;whole milk
+ham;hamburger meat;margarine;whole milk
+frankfurter;frankfurter;pip fruit;yogurt
+butter;chicken;soda;whole milk
+other vegetables;pip fruit;tropical fruit;whole milk
+beef;citrus fruit;shopping bags;whole milk
+beef;cream cheese ;frozen vegetables;tropical fruit
+beef;candles;oil;sausage
+other vegetables;pork;rolls/buns;rolls/buns
+bottled beer;candy;sausage;yogurt
+bottled water;fruit/vegetable juice;hard cheese;napkins
+hamburger meat;newspapers;specialty cheese;whole milk
+bottled water;tropical fruit;whole milk;yogurt
+curd;meat;whipped/sour cream;yogurt
+bottled beer;citrus fruit;herbs;sausage
+chewing gum;citrus fruit;newspapers;pastry
+canned beer;liver loaf;pork;whole milk
+chocolate marshmallow;domestic eggs;house keeping products;other vegetables;salty snack;semi-finished bread;whole milk;whole milk
+hard cheese;photo/film;pork;tropical fruit
+napkins;newspapers;pork;root vegetables
+beverages;margarine;pip fruit;soda
+beef;curd;root vegetables;whole milk
+pip fruit;soda;tropical fruit;whole milk
+berries;bottled water;other vegetables;pip fruit
+frozen meals;liquor (appetizer);soda;specialty chocolate
+misc. beverages;specialty chocolate;tropical fruit;yogurt
+beverages;newspapers;newspapers;pastry
+chicken;ice cream;rolls/buns;whole milk
+other vegetables;tropical fruit;whole milk;yogurt
+butter;chicken;rolls/buns;shopping bags;soda
+cling film/bags;grapes;photo/film;pip fruit;root vegetables
+curd;frankfurter;other vegetables;photo/film;waffles
+female sanitary products;hamburger meat;other vegetables;popcorn;tropical fruit
+beef;brown bread;coffee;dishes;pastry
+canned beer;dental care;soda;specialty chocolate;turkey
+misc. beverages;processed cheese;specialty bar;whole milk;whole milk
+curd;mayonnaise;soft cheese;tropical fruit;yogurt
+brown bread;chewing gum;root vegetables;sausage;whole milk
+chicken;frozen meals;pastry;pip fruit;rolls/buns
+beef;bottled water;citrus fruit;newspapers;whole milk
+citrus fruit;shopping bags;sliced cheese;whole milk
+butter;other vegetables;pip fruit;whole milk
+hamburger meat;root vegetables;seasonal products;shopping bags
+domestic eggs;ice cream;rolls/buns;root vegetables
+hard cheese;margarine;root vegetables;yogurt
+citrus fruit;finished products;misc. beverages;pork
+UHT-milk;other vegetables;salty snack;soda
+butter;chicken;curd;flower (seeds)
+misc. beverages;onions;whole milk;yogurt
+butter;canned beer;domestic eggs;margarine
+beef;citrus fruit;other vegetables;whipped/sour cream
+cream cheese ;shopping bags;soda;waffles
+cat food;citrus fruit;root vegetables;root vegetables
+fruit/vegetable juice;soda;spread cheese;yogurt
+berries;butter;newspapers;other vegetables
+berries;sausage;soda;yogurt
+citrus fruit;domestic eggs;napkins;pork
+UHT-milk;bottled water;other vegetables;other vegetables
+canned fruit;finished products;pip fruit;root vegetables
+cat food;onions;tidbits;tropical fruit
+canned beer;domestic eggs;waffles;white wine
+canned beer;coffee;onions;whole milk
+brown bread;butter;dental care;fruit/vegetable juice
+pork;pork;rolls/buns;sparkling wine
+bottled water;frankfurter;instant coffee;whole milk
+pot plants;rolls/buns;sausage;snack products
+canned fish;pork;yogurt;yogurt
+liquor;other vegetables;other vegetables;whole milk
+butter;frozen meals;fruit/vegetable juice;rolls/buns
+beef;frozen vegetables;root vegetables;sugar
+frankfurter;newspapers;rolls/buns;waffles
+frankfurter;pastry;pork;tropical fruit
+bottled beer;dessert;other vegetables;sliced cheese
+UHT-milk;packaged fruit/vegetables;rolls/buns;root vegetables
+napkins;other vegetables;sausage;shopping bags
+butter;curd;processed cheese;whole milk
+other vegetables;shopping bags;soups;whole milk
+bottled beer;bottled water;canned beer;whole milk
+frankfurter;other vegetables;other vegetables;root vegetables
+bottled water;cream cheese ;hygiene articles;pip fruit
+fruit/vegetable juice;pip fruit;soda;whipped/sour cream
+chicken;hard cheese;rolls/buns;shopping bags
+long life bakery product;other vegetables;tropical fruit;whole milk
+onions;other vegetables;rolls/buns;whole milk
+butter;cleaner;meat;misc. beverages
+bottled beer;bottled beer;fruit/vegetable juice;whole milk
+coffee;flour;napkins;pet care
+chocolate;coffee;rolls/buns;tropical fruit
+chewing gum;citrus fruit;root vegetables;whole milk
+coffee;ham;whole milk;whole milk
+other vegetables;rolls/buns;seasonal products;white bread
+flour;hard cheese;rolls/buns;rolls/buns
+UHT-milk;brown bread;ice cream;whole milk
+bottled beer;bottled beer;frankfurter;other vegetables
+fruit/vegetable juice;pip fruit;pip fruit;whole milk
+coffee;oil;whole milk;whole milk
+brown bread;citrus fruit;rolls/buns;whole milk
+onions;other vegetables;pork;whole milk
+butter milk;canned beer;domestic eggs;popcorn
+canned beer;hard cheese;root vegetables;specialty cheese
+pasta;pork;pork;whole milk
+chicken;coffee;whole milk;whole milk
+UHT-milk;UHT-milk;pastry;yogurt
+brandy;ham;root vegetables;whole milk
+margarine;other vegetables;rolls/buns;whole milk
+pip fruit;root vegetables;tropical fruit;waffles
+bottled beer;butter;frozen vegetables;whole milk
+frozen meals;long life bakery product;sausage;soda
+bottled beer;brown bread;misc. beverages;whole milk
+beef;curd;other vegetables;white bread
+citrus fruit;other vegetables;root vegetables;whipped/sour cream
+grapes;pastry;whole milk;yogurt
+berries;butter;pastry;yogurt
+butter;coffee;pastry;soda
+UHT-milk;brown bread;canned beer;grapes
+frozen meals;pip fruit;rolls/buns;whole milk
+chocolate;pickled vegetables;rolls/buns;whole milk
+canned beer;processed cheese;pudding powder;root vegetables
+UHT-milk;instant coffee;margarine;rolls/buns
+berries;rice;rolls/buns;shopping bags
+beverages;pip fruit;root vegetables;root vegetables
+chewing gum;pork;tropical fruit;whole milk
+frankfurter;light bulbs;pasta;rolls/buns
+rolls/buns;rolls/buns;rolls/buns;sausage
+chocolate;citrus fruit;specialty bar;yogurt
+brown bread;butter;shopping bags;soda
+UHT-milk;frozen vegetables;pastry;soda
+canned beer;cream cheese ;other vegetables;specialty chocolate
+bottled water;long life bakery product;mustard;root vegetables
+margarine;other vegetables;pork;pork
+frozen meals;ham;roll products ;specialty chocolate
+chicken;liquor;newspapers;specialty bar
+rolls/buns;salty snack;specialty bar;tropical fruit
+packaged fruit/vegetables;pastry;pork;rolls/buns
+butter milk;other vegetables;other vegetables;sausage
+frozen vegetables;rolls/buns;root vegetables;waffles
+curd;frozen meals;soda;soft cheese
+bottled water;cat food;frozen vegetables;root vegetables
+beverages;flour;ham;tropical fruit
+jam;sausage;whole milk;yogurt
+canned beer;frankfurter;other vegetables;potato products
+UHT-milk;domestic eggs;newspapers;whole milk
+brown bread;dessert;pastry;whole milk
+butter;hair spray;pastry;whole milk
+candy;oil;other vegetables;sausage
+canned beer;flower (seeds);roll products ;root vegetables
+sausage;whipped/sour cream;whole milk;yogurt
+beef;hygiene articles;ketchup;pork
+baking powder;frozen vegetables;pet care;yogurt
+canned beer;oil;pork;whole milk
+bottled beer;frankfurter;margarine;whipped/sour cream
+butter;meat;processed cheese;whole milk
+other vegetables;sliced cheese;yogurt;yogurt
+condensed milk;curd;sausage;whole milk
+UHT-milk;frozen potato products;onions;root vegetables
+canned beer;long life bakery product;pasta;sliced cheese
+berries;canned beer;domestic eggs;rolls/buns
+coffee;dessert;fruit/vegetable juice;tropical fruit
+frozen meals;other vegetables;pastry;tropical fruit
+butter;citrus fruit;hard cheese;soft cheese
+canned beer;chicken;frozen vegetables;whipped/sour cream
+condensed milk;dessert;rolls/buns;shopping bags
+brown bread;hard cheese;other vegetables;salty snack
+ice cream;other vegetables;pork;salt
+ice cream;onions;sliced cheese;soda
+dishes;frozen vegetables;pastry;root vegetables
+chicken;rolls/buns;root vegetables;whole milk
+chicken;flower (seeds);onions;rolls/buns
+citrus fruit;coffee;frozen vegetables;onions
+bottled beer;liquor;meat;waffles
+ham;pork;pork;soda
+canned beer;citrus fruit;curd;specialty chocolate
+butter;pasta;rolls/buns;yogurt
+frankfurter;root vegetables;sugar;whole milk
+dishes;oil;onions;whole milk
+bottled beer;margarine;pork;whole milk
+berries;butter milk;citrus fruit;napkins
+butter milk;coffee;sliced cheese;whipped/sour cream
+chicken;napkins;newspapers;other vegetables
+dishes;pip fruit;pip fruit;sliced cheese
+brown bread;pip fruit;soda;sugar
+hard cheese;other vegetables;rolls/buns;yogurt
+dessert;hamburger meat;liquor (appetizer);liver loaf
+canned beer;chocolate;liquor;onions
+butter;frozen dessert;frozen potato products;turkey
+beverages;cake bar;cake bar;frozen meals
+bottled beer;bottled water;grapes;other vegetables
+butter milk;other vegetables;other vegetables;pastry
+liquor;pip fruit;rolls/buns;specialty chocolate
+flour;seasonal products;specialty fat;whole milk
+hamburger meat;other vegetables;root vegetables;whole milk
+chocolate;hamburger meat;other vegetables;whole milk
+other vegetables;sugar;whipped/sour cream;whole milk
+frozen meals;oil;other vegetables;pork
+beef;butter milk;soda;yogurt
+bottled water;chicken;ketchup;other vegetables
+citrus fruit;root vegetables;sausage;whole milk
+butter;sausage;yogurt;yogurt
+bottled beer;brown bread;pork;shopping bags
+canned fish;frankfurter;whole milk;yogurt
+flour;specialty chocolate;tropical fruit;whipped/sour cream
+canned beer;fruit/vegetable juice;shopping bags;tropical fruit
+hygiene articles;pork;rolls/buns;specialty bar
+artif. sweetener;ice cream;turkey;whole milk
+citrus fruit;other vegetables;pork;shopping bags
+brown bread;soda;soft cheese;whole milk
+bottled water;citrus fruit;soda;tropical fruit
+UHT-milk;butter;other vegetables;pastry
+brown bread;hard cheese;liquor;other vegetables
+beef;fruit/vegetable juice;hygiene articles;whole milk
+cat food;meat;processed cheese;root vegetables
+mayonnaise;other vegetables;sausage;seasonal products
+coffee;curd;pip fruit;rolls/buns
+beef;berries;candles;long life bakery product
+chicken;mayonnaise;soda;sparkling wine
+canned beer;oil;other vegetables;waffles
+coffee;sausage;white wine;yogurt
+brandy;semi-finished bread;whole milk;whole milk
+canned beer;newspapers;whipped/sour cream;whole milk
+canned beer;frozen vegetables;onions;sausage
+butter;coffee;other vegetables;whipped/sour cream
+nuts/prunes;pastry;root vegetables;white wine
+bottled beer;rolls/buns;sausage;whole milk
+brown bread;coffee;detergent;hamburger meat
+candy;chicken;chocolate;oil
+cookware;oil;tropical fruit;whole milk
+bottled beer;bottled water;finished products;yogurt
+other vegetables;pip fruit;sparkling wine;whole milk
+beef;other vegetables;soda;whole milk
+abrasive cleaner;citrus fruit;long life bakery product;whole milk
+bottled water;butter;citrus fruit;whole milk
+margarine;other vegetables;pastry;root vegetables
+beef;soda;soft cheese;white wine
+butter;citrus fruit;dental care;whole milk
+frankfurter;other vegetables;rolls/buns;rolls/buns;soda
+brown bread;flower (seeds);oil;pork;sausage;waffles;whole milk
+bottled beer;butter;newspapers;root vegetables;sausage;whole milk;yogurt
+chicken;citrus fruit;curd;semi-finished bread;specialty chocolate;tropical fruit;whole milk
+bottled beer;canned beer;canned fish;onions;pork;shopping bags;whole milk
+bottled beer;domestic eggs;long life bakery product;other vegetables;rolls/buns;skin care;tropical fruit
+fruit/vegetable juice;newspapers;oil;other vegetables;pastry;soda;whole milk
+UHT-milk;baking powder;brown bread;butter;butter milk;canned beer;long life bakery product
+UHT-milk;brown bread;frozen vegetables;root vegetables;sausage;sliced cheese;white bread
+dessert;photo/film;pot plants;white bread;whole milk;whole milk;yogurt
+canned fruit;fruit/vegetable juice;popcorn;sausage;soda;whole milk;whole milk
+bottled beer;bottled water;butter;margarine;misc. beverages;seasonal products;turkey
+dental care;frozen vegetables;house keeping products;other vegetables;pastry;waffles;whole milk
+bottled water;brown bread;hamburger meat;other vegetables;popcorn;pork;soda
+brown bread;canned fish;margarine;other vegetables;photo/film;sliced cheese;white wine
+canned beer;curd;curd;hygiene articles;photo/film;salty snack;whole milk
+frankfurter;frankfurter;hygiene articles;long life bakery product;newspapers;pip fruit;whipped/sour cream
+frozen meals;hamburger meat;pip fruit;root vegetables;soda;spread cheese;sugar
+UHT-milk;beef;fruit/vegetable juice;ice cream;pip fruit;rolls/buns;whole milk
+baking powder;coffee;fruit/vegetable juice;newspapers;pastry;processed cheese;whole milk
+beverages;bottled water;processed cheese;root vegetables;tropical fruit;white bread;yogurt
+bottled beer;brown bread;ham;oil;other vegetables;pork;whole milk
+cake bar;female sanitary products;sausage;soda;whole milk;whole milk;yogurt
+hamburger meat;other vegetables;other vegetables;other vegetables;soda;soft cheese;waffles
+coffee;oil;root vegetables;salty snack;soft cheese;whole milk;yogurt
+curd;curd;finished products;pip fruit;pork;whipped/sour cream;whole milk
+bottled beer;hygiene articles;pot plants;soda;tropical fruit;whole milk;whole milk
+beverages;curd;flour;liquor;margarine;soda;whole milk
+UHT-milk;frozen meals;other vegetables;other vegetables;salty snack;whole milk;whole milk
+beverages;canned beer;curd;make up remover;other vegetables;specialty bar;specialty chocolate
+bottled beer;canned beer;chocolate marshmallow;hygiene articles;pork;rolls/buns;soft cheese
+newspapers;other vegetables;pastry;pork;pot plants;rolls/buns;soda
+beef;cat food;domestic eggs;fruit/vegetable juice;salty snack;whipped/sour cream;whole milk
+citrus fruit;dog food;hard cheese;ketchup;pip fruit;roll products ;seasonal products
+dessert;frozen meals;grapes;napkins;other vegetables;other vegetables;rolls/buns
+cake bar;cream cheese ;frozen vegetables;nuts/prunes;specialty chocolate;white wine;yogurt
+coffee;frankfurter;instant coffee;instant coffee;rolls/buns;root vegetables;sugar
+berries;coffee;long life bakery product;pastry;seasonal products;whole milk;yogurt
+canned beer;canned fish;napkins;newspapers;pip fruit;semi-finished bread;soft cheese;soft cheese
+bottled beer;curd;fruit/vegetable juice;mayonnaise;misc. beverages;sausage;tropical fruit;waffles
+flower (seeds);liver loaf;other vegetables;packaged fruit/vegetables;rolls/buns;rolls/buns;rolls/buns;shopping bags
+citrus fruit;dog food;fruit/vegetable juice;rolls/buns;soda;whipped/sour cream;whole milk;yogurt
+UHT-milk;bottled beer;canned fish;chicken;cocoa drinks;frankfurter;onions;whole milk
+margarine;rolls/buns;root vegetables;root vegetables;root vegetables;shopping bags;soda;soft cheese
+beef;ham;house keeping products;instant coffee;long life bakery product;margarine;semi-finished bread;whole milk
+chocolate;coffee;pip fruit;waffles;whole milk;whole milk;whole milk;whole milk
+cat food;citrus fruit;curd;frozen vegetables;other vegetables;pork;soda;spices
+brown bread;canned beer;dish cleaner;dishes;liver loaf;sausage;white bread;white wine
+baking powder;dog food;sausage;shopping bags;sliced cheese;white bread;whole milk;yogurt
+chocolate;finished products;frozen meals;napkins;other vegetables;packaged fruit/vegetables;salty snack;whole milk
+canned beer;mustard;oil;popcorn;pork;rolls/buns;whipped/sour cream;yogurt
+fruit/vegetable juice;ham;misc. beverages;pickled vegetables;rolls/buns;sliced cheese;whole milk;whole milk
+bottled water;chocolate;cling film/bags;frozen vegetables;house keeping products;margarine;soda;whole milk
+bathroom cleaner;canned beer;condensed milk;pastry;rolls/buns;root vegetables;tropical fruit;waffles
+candles;chocolate;frozen potato products;napkins;pip fruit;seasonal products;sweet spreads;tropical fruit
+beef;citrus fruit;domestic eggs;long life bakery product;soda;specialty bar;vinegar;white bread
+cake bar;domestic eggs;frozen meals;pip fruit;pip fruit;shopping bags;soda;whipped/sour cream
+UHT-milk;chicken;frozen potato products;hard cheese;root vegetables;semi-finished bread;yogurt;yogurt
+UHT-milk;coffee;napkins;onions;rolls/buns;root vegetables;whole milk;yogurt
+bottled water;bottled water;chicken;pastry;pip fruit;shopping bags;tropical fruit;waffles
+pastry;sausage;sausage;sweet spreads;tropical fruit;white wine;whole milk;whole milk
+brown bread;brown bread;cling film/bags;other vegetables;pastry;soda;whole milk;yogurt
+domestic eggs;photo/film;root vegetables;soda;tropical fruit;white wine;yogurt;yogurt
+bottled beer;chocolate;coffee;pastry;rolls/buns;rolls/buns;sausage;whole milk
+brown bread;cake bar;canned beer;chicken;domestic eggs;fruit/vegetable juice;sausage;tropical fruit
+bottled water;hamburger meat;other vegetables;sausage;spread cheese;sugar;tropical fruit;white bread
+frozen fish;ham;hard cheese;pip fruit;pot plants;shopping bags;whole milk;whole milk
+candy;citrus fruit;curd;dishes;pork;rolls/buns;root vegetables;yogurt
+chewing gum;ham;herbs;herbs;newspapers;pastry;whole milk;whole milk
+bottled water;flour;liquor;newspapers;sausage;soda;whole milk;whole milk
+UHT-milk;bottled beer;frankfurter;other vegetables;rolls/buns;soups;yogurt;yogurt
+canned beer;newspapers;rolls/buns;white bread;white bread;whole milk;whole milk;whole milk
+detergent;dishes;napkins;pastry;sausage;specialty chocolate;whisky;yogurt
+butter;dog food;fruit/vegetable juice;hygiene articles;newspapers;rolls/buns;sliced cheese;yogurt
+domestic eggs;frankfurter;other vegetables;rubbing alcohol;soda;sparkling wine;white bread;yogurt
+canned beer;ham;newspapers;nut snack;other vegetables;other vegetables;soda;yogurt
+canned beer;condensed milk;frozen vegetables;hard cheese;other vegetables;root vegetables;sausage;white bread
+bottled beer;brown bread;brown bread;coffee;napkins;napkins;pastry;rolls/buns
+berries;fruit/vegetable juice;herbs;long life bakery product;pork;specialty cheese;waffles;yogurt
+butter milk;dental care;napkins;onions;rice;rolls/buns;rolls/buns;specialty chocolate
+beef;brown bread;canned beer;frankfurter;frozen vegetables;misc. beverages;newspapers;pip fruit
+chicken;condensed milk;newspapers;nut snack;soft cheese;spices;whole milk;yogurt
+bottled beer;brown bread;butter;canned beer;cream cheese ;dessert;other vegetables;sausage
+coffee;hygiene articles;ice cream;misc. beverages;popcorn;rolls/buns;shopping bags;tropical fruit
+canned beer;canned beer;oil;pork;rolls/buns;root vegetables;shopping bags;soda
+artif. sweetener;honey;other vegetables;prosecco;sausage;shopping bags;waffles;whole milk
+berries;butter;butter milk;chocolate;long life bakery product;napkins;sweet spreads;white bread
+canned vegetables;cream cheese ;curd;fruit/vegetable juice;nut snack;pork;root vegetables;root vegetables
+canned beer;cream cheese ;newspapers;pork;pork;tropical fruit;waffles;whipped/sour cream
+flour;hamburger meat;pork;yogurt
+fruit/vegetable juice;pork;soft cheese;white bread
+canned beer;coffee;hygiene articles;pip fruit
+UHT-milk;hamburger meat;pork;tropical fruit
+chocolate;curd;hamburger meat;ice cream
+finished products;ice cream;tropical fruit;whole milk
+butter;packaged fruit/vegetables;pot plants;rolls/buns
+domestic eggs;flour;frankfurter;whole milk
+semi-finished bread;soda;tropical fruit;yogurt
+domestic eggs;other vegetables;pork;whole milk
+baking powder;bottled beer;domestic eggs;tropical fruit
+bottled water;onions;spread cheese;whole milk
+canned beer;frankfurter;pastry;pastry
+citrus fruit;frozen vegetables;other vegetables;waffles
+citrus fruit;hamburger meat;other vegetables;specialty chocolate
+UHT-milk;cream;frankfurter;soda
+chicken;other vegetables;pip fruit;sausage
+onions;sausage;whipped/sour cream;yogurt
+frankfurter;napkins;sausage;soda
+UHT-milk;bottled beer;chocolate;whole milk
+curd;frankfurter;misc. beverages;salt
+chewing gum;pickled vegetables;soda;yogurt
+chicken;domestic eggs;pasta;sausage
+chicken;newspapers;white bread;whole milk
+herbs;other vegetables;shopping bags;whole milk
+brown bread;frankfurter;root vegetables;whole milk
+UHT-milk;newspapers;soda;white bread
+frozen meals;hamburger meat;pastry;white bread
+chicken;onions;other vegetables;pastry
+beef;butter;cream cheese ;whole milk
+canned beer;chewing gum;dessert;root vegetables
+berries;canned beer;soda;white bread
+male cosmetics;salt;sugar;yogurt
+berries;bottled beer;white bread;yogurt
+newspapers;processed cheese;rolls/buns;syrup
+canned beer;cat food;whole milk;whole milk
+rolls/buns;salt;whole milk;yogurt
+frozen meals;shopping bags;whole milk;whole milk
+other vegetables;other vegetables;pip fruit;specialty bar
+pastry;sausage;whole milk;whole milk
+newspapers;other vegetables;other vegetables;pip fruit
+bottled beer;bottled beer;fish;soda
+curd;pip fruit;pip fruit;prosecco
+chocolate marshmallow;citrus fruit;curd;whole milk
+bottled water;dishes;spread cheese;sugar
+citrus fruit;meat;other vegetables;pip fruit
+UHT-milk;domestic eggs;pork;rolls/buns
+newspapers;salty snack;sausage;soda
+butter;hamburger meat;pip fruit;yogurt
+bottled water;detergent;domestic eggs;yogurt
+bottled beer;brown bread;cookware;whole milk
+onions;pork;rolls/buns;vinegar
+canned beer;canned vegetables;liver loaf;tropical fruit
+cake bar;meat;root vegetables;sausage
+bottled water;root vegetables;soft cheese;yogurt
+canned fruit;citrus fruit;dessert;pip fruit
+bottled water;chicken;frankfurter;soda
+UHT-milk;bottled beer;frankfurter;pot plants
+berries;dessert;newspapers;onions
+bottled beer;ice cream;pastry;red/blush wine
+chocolate;prosecco;roll products ;sausage
+domestic eggs;sausage;whipped/sour cream;whole milk
+UHT-milk;dessert;frozen dessert;yogurt
+chewing gum;chicken;whole milk;whole milk
+cling film/bags;meat;meat;whole milk
+beef;citrus fruit;curd;tropical fruit
+butter milk;margarine;yogurt;yogurt
+canned beer;nuts/prunes;other vegetables;shopping bags
+dishes;grapes;root vegetables;white bread
+bottled beer;other vegetables;salty snack;whole milk
+chicken;margarine;soda;whole milk
+brown bread;butter;canned beer;canned beer
+salty snack;soda;tropical fruit;tropical fruit
+butter;onions;root vegetables;whole milk
+fruit/vegetable juice;tropical fruit;whole milk;whole milk
+chicken;sausage;sparkling wine;whipped/sour cream
+bottled water;coffee;other vegetables;soda
+berries;citrus fruit;salty snack;yogurt
+UHT-milk;beef;butter milk;white wine
+pork;whole milk;whole milk;whole milk
+ham;soda;whole milk;whole milk
+bottled beer;candy;mayonnaise;rolls/buns
+bottled water;butter;chicken;frankfurter
+citrus fruit;hamburger meat;specialty bar;whole milk
+grapes;spread cheese;whipped/sour cream;yogurt
+candles;other vegetables;rolls/buns;rolls/buns
+beverages;canned beer;hamburger meat;other vegetables
+brandy;hygiene articles;other vegetables;tropical fruit
+candy;canned beer;chocolate;yogurt
+pet care;sausage;whole milk;yogurt
+pork;salt;sausage;soda
+bottled water;grapes;onions;root vegetables
+beef;canned beer;coffee;whole milk
+curd;margarine;tropical fruit;yogurt
+bottled beer;hamburger meat;rolls/buns;sparkling wine
+UHT-milk;citrus fruit;dessert;pork
+chocolate;rolls/buns;soda;soda
+citrus fruit;frankfurter;ice cream;yogurt
+butter;sausage;white bread;whole milk
+curd;grapes;tropical fruit;white wine
+fish;other vegetables;soda;whole milk
+bottled water;canned beer;domestic eggs;ham
+beverages;frozen fruits;fruit/vegetable juice;whole milk
+other vegetables;rolls/buns;soda;vinegar
+ice cream;long life bakery product;sausage;sliced cheese
+dessert;sweet spreads;tropical fruit;tropical fruit
+bottled beer;ice cream;pastry;rolls/buns
+coffee;domestic eggs;shopping bags;waffles
+bottled beer;chicken;soda;yogurt
+canned beer;fruit/vegetable juice;hamburger meat;whole milk
+berries;butter;other vegetables;tropical fruit
+ham;margarine;root vegetables;whipped/sour cream
+bottled water;brandy;whole milk;whole milk
+bottled beer;hard cheese;liquor (appetizer);whole milk
+bottled beer;cream cheese ;frozen vegetables;sausage
+other vegetables;rolls/buns;sausage;sliced cheese
+cling film/bags;finished products;other vegetables;whole milk
+artif. sweetener;fruit/vegetable juice;misc. beverages;newspapers
+beverages;canned beer;dishes;finished products
+dog food;napkins;semi-finished bread;yogurt
+bottled water;brown bread;ham;yogurt
+UHT-milk;bottled beer;root vegetables;tropical fruit
+coffee;frankfurter;ice cream;specialty cheese
+candles;candy;coffee;yogurt
+beef;bottled beer;frozen vegetables;shopping bags
+chewing gum;frozen fish;newspapers;tropical fruit
+UHT-milk;bottled beer;domestic eggs;rolls/buns
+brown bread;citrus fruit;onions;salty snack
+chicken;curd;newspapers;root vegetables
+beef;margarine;soda;soda
+hard cheese;jam;meat;tropical fruit
+beef;bottled water;brown bread;chewing gum
+canned beer;grapes;rolls/buns;whole milk
+cream cheese ;frankfurter;oil;onions
+Instant food products;pastry;soda;whole milk
+bottled water;canned beer;detergent;tropical fruit
+canned beer;canned fruit;hamburger meat;other vegetables
+liquor (appetizer);pip fruit;soda;specialty chocolate
+UHT-milk;dessert;napkins;soda
+beverages;chewing gum;misc. beverages;pork
+long life bakery product;rolls/buns;snack products;soda
+packaged fruit/vegetables;rolls/buns;root vegetables;whipped/sour cream
+butter milk;sausage;soda;vinegar
+butter;cream cheese ;flour;rolls/buns
+canned beer;other vegetables;root vegetables;tropical fruit
+citrus fruit;domestic eggs;rolls/buns;tropical fruit
+pip fruit;salty snack;whole milk;whole milk
+other vegetables;salt;soft cheese;yogurt
+canned beer;detergent;frozen vegetables;sausage
+chocolate;frankfurter;mayonnaise;oil
+meat;onions;whole milk;whole milk
+canned beer;ice cream;male cosmetics;white wine
+chicken;soda;soda;tropical fruit
+chewing gum;whole milk;yogurt;yogurt
+beverages;newspapers;rolls/buns;white bread
+condensed milk;pastry;pork;whole milk
+bottled water;frozen vegetables;meat;pip fruit
+coffee;domestic eggs;margarine;other vegetables
+root vegetables;sausage;soft cheese;whole milk
+beef;beverages;whole milk;yogurt
+brown bread;frankfurter;frankfurter;grapes
+canned beer;canned beer;onions;sausage
+butter;pastry;whole milk;whole milk
+cream cheese ;napkins;rolls/buns;shopping bags
+canned fish;organic sausage;pastry;pip fruit
+bottled beer;canned beer;fruit/vegetable juice;yogurt
+citrus fruit;citrus fruit;oil;root vegetables
+butter;butter;root vegetables;whole milk
+curd;soda;tropical fruit;whole milk
+citrus fruit;frankfurter;napkins;tropical fruit
+citrus fruit;root vegetables;soda;tropical fruit
+bottled beer;butter;coffee;pastry
+herbs;pickled vegetables;seasonal products;spread cheese
+bottled water;brown bread;rolls/buns;sausage
+margarine;newspapers;pastry;root vegetables
+curd;other vegetables;tropical fruit;whole milk
+bottled water;chocolate;dessert;rolls/buns
+misc. beverages;root vegetables;sausage;tropical fruit
+UHT-milk;bottled beer;pastry;sausage
+cat food;rolls/buns;shopping bags;whole milk
+pastry;pip fruit;rolls/buns;whole milk
+hamburger meat;mustard;other vegetables;yogurt
+butter milk;chewing gum;pastry;yogurt
+frozen vegetables;hard cheese;pip fruit;sausage
+bottled water;citrus fruit;rolls/buns;white wine
+UHT-milk;cream cheese ;cream cheese ;waffles
+canned beer;rolls/buns;root vegetables;sausage
+bottled beer;canned beer;herbs;whole milk
+bottled water;citrus fruit;roll products ;whole milk
+brown bread;pork;rolls/buns;yogurt
+pip fruit;pip fruit;root vegetables;spread cheese
+canned beer;rolls/buns;whole milk;yogurt
+canned beer;tropical fruit;whole milk;yogurt
+dessert;dog food;sausage;shopping bags
+other vegetables;other vegetables;salty snack;yogurt
+coffee;newspapers;root vegetables;sliced cheese
+beef;meat;yogurt;yogurt
+beef;mustard;rolls/buns;whole milk
+pip fruit;rolls/buns;rolls/buns;rolls/buns
+brown bread;pip fruit;pork;tropical fruit
+herbs;oil;other vegetables;pork
+brown bread;other vegetables;pork;whole milk
+bottled water;margarine;sausage;whole milk
+chicken;margarine;sausage;yogurt
+beef;brown bread;frankfurter;other vegetables
+bottled water;hard cheese;organic sausage;other vegetables
+dish cleaner;frozen meals;pip fruit;processed cheese
+mustard;tropical fruit;whole milk;whole milk
+UHT-milk;pork;specialty bar;yogurt
+beverages;meat;pip fruit;soda
+pet care;pip fruit;root vegetables;tropical fruit
+cream cheese ;frankfurter;pip fruit;whole milk
+brown bread;canned beer;dessert;rolls/buns
+butter;butter;frozen vegetables;root vegetables
+root vegetables;sausage;spread cheese;tropical fruit
+bottled water;meat;newspapers;whipped/sour cream
+bottled beer;bottled water;dog food;sausage
+brown bread;canned beer;frankfurter;sausage
+baking powder;meat;pastry;sausage
+frozen vegetables;pip fruit;soda;whole milk
+chicken;liquor;rolls/buns;tropical fruit
+beef;butter;long life bakery product;tidbits
+brown bread;cream cheese ;whole milk;whole milk
+citrus fruit;other vegetables;pastry;pastry
+frozen meals;other vegetables;tropical fruit;yogurt
+pip fruit;sausage;sausage;tropical fruit
+organic sausage;specialty bar;whole milk;yogurt
+beef;bottled beer;soups;whole milk
+beverages;citrus fruit;other vegetables;pip fruit
+beef;citrus fruit;whole milk;yogurt
+baking powder;berries;butter;canned beer
+candles;meat;tropical fruit;whole milk
+beverages;bottled beer;chocolate;domestic eggs
+canned beer;dog food;other vegetables;rolls/buns
+bottled water;mayonnaise;meat;whole milk
+citrus fruit;cream cheese ;red/blush wine;sauces
+beverages;candy;meat;newspapers
+bottled beer;fruit/vegetable juice;sausage;tropical fruit
+butter;frankfurter;frozen vegetables;other vegetables
+UHT-milk;onions;rolls/buns;sausage
+curd cheese;pastry;root vegetables;whole milk
+chocolate;grapes;pot plants;whole milk
+brown bread;canned beer;frozen vegetables;soda
+canned beer;other vegetables;pip fruit;root vegetables
+canned beer;pip fruit;pork;white bread
+bottled water;candy;margarine;soda
+berries;bottled beer;root vegetables;soda
+curd;fruit/vegetable juice;liver loaf;pip fruit
+citrus fruit;other vegetables;pork;yogurt
+dish cleaner;frozen potato products;frozen vegetables;rolls/buns
+canned beer;citrus fruit;sausage;whole milk
+curd;ham;other vegetables;sausage
+dishes;hamburger meat;pip fruit;rolls/buns
+frankfurter;other vegetables;pork;potato products
+bottled beer;butter;nuts/prunes;soda
+canned beer;organic sausage;shopping bags;tropical fruit
+canned beer;sausage;sausage;spices
+canned fish;frankfurter;rolls/buns;soda
+canned beer;chicken;pip fruit;sausage
+popcorn;rolls/buns;white bread;whole milk
+berries;candy;frozen vegetables;whole milk
+beef;other vegetables;pip fruit;whole milk
+jam;red/blush wine;rolls/buns;whole milk
+frankfurter;fruit/vegetable juice;margarine;root vegetables
+other vegetables;pork;soda;tropical fruit
+beef;coffee;flour;white bread
+beef;citrus fruit;rolls/buns;whole milk
+beverages;bottled water;hamburger meat;whole milk
+citrus fruit;frankfurter;frozen vegetables;yogurt
+beverages;butter milk;domestic eggs;soda
+curd;dessert;red/blush wine;rolls/buns
+beverages;curd;rolls/buns;soda
+frozen vegetables;pastry;sausage;sausage
+finished products;frozen vegetables;oil;rolls/buns
+frankfurter;long life bakery product;pastry;whipped/sour cream
+UHT-milk;citrus fruit;frozen meals;specialty chocolate
+pork;salt;tropical fruit;whole milk
+bottled beer;bottled water;liver loaf;pastry
+frankfurter;fruit/vegetable juice;root vegetables;skin care
+condensed milk;other vegetables;soups;whole milk
+bottled water;canned vegetables;root vegetables;whole milk
+canned beer;pip fruit;pork;seasonal products
+pasta;pip fruit;red/blush wine;root vegetables
+curd;fruit/vegetable juice;sausage;whole milk
+baking powder;bottled beer;chicken;curd
+bottled water;brown bread;grapes;soda
+bottled water;brown bread;hard cheese;root vegetables
+butter;frankfurter;soda;whole milk
+butter;cream cheese ;frankfurter;soda
+canned beer;shopping bags;whole milk;yogurt
+frankfurter;other vegetables;root vegetables;whole milk
+dog food;sausage;sweet spreads;tropical fruit
+curd;frozen vegetables;liver loaf;soda
+frozen vegetables;house keeping products;pip fruit;yogurt
+bottled water;other vegetables;soda;tropical fruit
+canned beer;root vegetables;root vegetables;whipped/sour cream
+hamburger meat;rolls/buns;tropical fruit;whipped/sour cream
+frankfurter;napkins;other vegetables;pip fruit
+bottled beer;bottled water;rolls/buns;root vegetables
+berries;other vegetables;pip fruit;white wine
+chicken;onions;packaged fruit/vegetables;tropical fruit
+beverages;dessert;frozen meals;red/blush wine
+other vegetables;other vegetables;sugar;whole milk
+herbs;liver loaf;pastry;white bread
+canned fish;frankfurter;frankfurter;whole milk
+coffee;cream cheese ;dessert;whole milk
+frankfurter;mayonnaise;other vegetables;root vegetables
+cream cheese ;pip fruit;sausage;whole milk
+canned beer;other vegetables;rolls/buns;sausage
+bottled water;pastry;soda;whole milk
+condensed milk;rolls/buns;root vegetables;tropical fruit
+canned beer;misc. beverages;rolls/buns;yogurt
+pork;rolls/buns;sausage;tropical fruit
+butter;butter milk;canned beer;citrus fruit
+curd;liquor;tropical fruit;yogurt
+herbs;other vegetables;rolls/buns;yogurt
+soda;soups;specialty bar;whipped/sour cream
+curd;rolls/buns;rolls/buns;whole milk
+beef;other vegetables;sausage;white wine
+butter;frozen vegetables;rolls/buns;whole milk
+dessert;frozen meals;margarine;pork
+bottled water;curd;other vegetables;tropical fruit
+other vegetables;pip fruit;rolls/buns;soda
+canned vegetables;frankfurter;pastry;pork
+bottled water;domestic eggs;domestic eggs;whole milk
+other vegetables;rolls/buns;shopping bags;soda
+meat;other vegetables;sausage;shopping bags
+canned beer;other vegetables;soft cheese;turkey
+coffee;salt;sausage;white wine
+frozen vegetables;hamburger meat;pork;rolls/buns
+bottled water;chicken;citrus fruit;rolls/buns
+canned beer;curd cheese;pastry;yogurt
+other vegetables;pastry;rolls/buns;whole milk
+curd;frozen meals;rolls/buns;tropical fruit
+root vegetables;sausage;soda;whipped/sour cream
+chicken;rolls/buns;whole milk;yogurt
+Instant food products;curd;pork;soda
+bottled water;domestic eggs;spread cheese;tropical fruit
+bottled beer;sausage;whole milk;yogurt
+canned beer;rolls/buns;root vegetables;tropical fruit
+frankfurter;grapes;seasonal products;soda
+bottled beer;dishes;sliced cheese;tropical fruit
+coffee;soda;whole milk;yogurt
+frankfurter;napkins;other vegetables;pastry
+curd;long life bakery product;margarine;sausage
+brown bread;pip fruit;pork;whole milk
+artif. sweetener;frozen meals;instant coffee;soda
+baking powder;coffee;condensed milk;frankfurter
+beef;beef;misc. beverages;salty snack
+bottled water;curd;pickled vegetables;processed cheese
+chicken;hamburger meat;pork;whole milk
+bottled beer;citrus fruit;citrus fruit;cream cheese 
+dessert;rolls/buns;soda;tropical fruit
+bottled beer;dessert;jam;male cosmetics
+pip fruit;pork;shopping bags;whole milk
+cream cheese ;frankfurter;root vegetables;yogurt
+flour;flower soil/fertilizer;specialty bar;tropical fruit
+beverages;domestic eggs;semi-finished bread;whole milk
+margarine;other vegetables;pork;pork
+frankfurter;herbs;rice;sausage
+chewing gum;shopping bags;whipped/sour cream;yogurt
+chicken;meat;pip fruit;yogurt
+frozen vegetables;snack products;tropical fruit;whole milk
+berries;hamburger meat;pip fruit;rolls/buns
+root vegetables;shopping bags;tropical fruit;yogurt
+chicken;domestic eggs;frankfurter;other vegetables
+dessert;oil;sausage;whole milk
+citrus fruit;coffee;fruit/vegetable juice;other vegetables
+other vegetables;pip fruit;whipped/sour cream;whole milk
+sausage;semi-finished bread;whole milk;yogurt
+beverages;canned beer;sausage;whole milk
+Instant food products;canned beer;pip fruit;whole milk
+citrus fruit;hamburger meat;other vegetables;specialty chocolate
+bottled water;bottled water;sausage;yogurt
+citrus fruit;coffee;pastry;tropical fruit
+UHT-milk;dessert;sausage;whole milk
+dessert;fruit/vegetable juice;pastry;sausage
+citrus fruit;light bulbs;whole milk;whole milk
+grapes;liver loaf;other vegetables;pasta
+bottled water;frozen vegetables;whole milk;whole milk
+beef;other vegetables;processed cheese;spices
+brown bread;dish cleaner;pastry;pet care
+domestic eggs;frozen meals;meat;whole milk
+cookware;sausage;soda;spices
+berries;bottled beer;tropical fruit;yogurt
+beef;newspapers;root vegetables;whole milk
+bottled beer;frozen meals;potato products;root vegetables
+candles;dessert;domestic eggs;whole milk
+canned beer;grapes;pastry;sparkling wine
+flower (seeds);rolls/buns;soda;soda
+bottled water;pastry;sausage;sausage
+chocolate;newspapers;pastry;sausage
+butter;napkins;tropical fruit;whole milk
+beef;chicken;semi-finished bread;white bread
+brown bread;roll products ;root vegetables;whole milk
+processed cheese;rolls/buns;semi-finished bread;whole milk
+berries;canned vegetables;dessert;rolls/buns
+citrus fruit;citrus fruit;other vegetables;whole milk
+curd;dessert;rolls/buns;soda
+domestic eggs;frozen meals;hamburger meat;pasta
+chocolate;cocoa drinks;sausage;specialty chocolate
+grapes;ice cream;sweet spreads;tropical fruit
+hard cheese;pickled vegetables;tropical fruit;waffles
+citrus fruit;citrus fruit;other vegetables;yogurt
+bottled water;dessert;hamburger meat;pasta
+butter;ice cream;nuts/prunes;semi-finished bread
+beef;chewing gum;pastry;yogurt
+coffee;pork;sausage;whole milk
+candy;frozen vegetables;other vegetables;sausage
+berries;bottled water;other vegetables;rolls/buns
+frankfurter;long life bakery product;napkins;pastry;root vegetables
+UHT-milk;cleaner;newspapers;pork;rolls/buns
+long life bakery product;mustard;pickled vegetables;whole milk;yogurt
+beef;frozen meals;pastry;whipped/sour cream;white wine
+candy;cream cheese ;ham;oil;other vegetables
+dessert;frankfurter;pet care;soda;whipped/sour cream
+bottled beer;coffee;hamburger meat;instant coffee;yogurt
+oil;rolls/buns;sliced cheese;white wine;whole milk
+napkins;packaged fruit/vegetables;rolls/buns;root vegetables;soft cheese
+chocolate;cream cheese ;domestic eggs;packaged fruit/vegetables;specialty bar
+canned beer;cat food;dishes;sliced cheese;zwieback
+brown bread;butter milk;finished products;fruit/vegetable juice;pot plants
+butter;coffee;napkins;pork;seasonal products
+citrus fruit;coffee;frozen meals;seasonal products;soups;yogurt
+detergent;ham;long life bakery product;pork;specialty chocolate;whole milk
+chewing gum;dish cleaner;dog food;flour;flower (seeds);whole milk
+candy;napkins;rolls/buns;sliced cheese;yogurt;yogurt
+domestic eggs;domestic eggs;meat;rolls/buns;white bread;whole milk
+chicken;domestic eggs;newspapers;rolls/buns;shopping bags;yogurt
+frozen meals;frozen vegetables;oil;other vegetables;popcorn;pork
+beverages;canned fish;citrus fruit;ready soups;soda;tropical fruit
+curd;margarine;salt;sauces;soda;sugar
+butter;dessert;sausage;shopping bags;soda;soda
+butter;chocolate;frankfurter;margarine;napkins;pip fruit
+baking powder;canned vegetables;detergent;domestic eggs;hygiene articles;whole milk
+bottled beer;butter;detergent;pip fruit;specialty bar;specialty bar
+chocolate;domestic eggs;frozen vegetables;fruit/vegetable juice;oil;rolls/buns
+butter milk;meat;newspapers;rolls/buns;specialty bar;tropical fruit
+beef;butter;chocolate;frozen meals;margarine;napkins
+beverages;canned fish;pip fruit;roll products ;sugar;whole milk
+bottled beer;candles;hard cheese;jam;shopping bags;whole milk
+bottled beer;citrus fruit;frozen potato products;fruit/vegetable juice;sauces;sugar
+dessert;fruit/vegetable juice;hygiene articles;hygiene articles;margarine;other vegetables
+canned fruit;processed cheese;shopping bags;soda;soda;soda
+UHT-milk;butter milk;candy;frozen vegetables;fruit/vegetable juice;other vegetables
+cat food;curd;pot plants;soft cheese;soft cheese;tropical fruit
+brown bread;butter milk;canned beer;other vegetables;rolls/buns;whole milk
+baking powder;cake bar;canned beer;newspapers;pastry;yogurt
+bottled water;frozen dessert;newspapers;rolls/buns;rolls/buns;yogurt
+bottled water;frankfurter;frankfurter;frozen potato products;hard cheese;shopping bags
+domestic eggs;hamburger meat;sausage;specialty cheese;tropical fruit;zwieback
+coffee;domestic eggs;flower (seeds);frozen meals;liver loaf;yogurt
+detergent;flour;shopping bags;whole milk;whole milk;whole milk
+butter;detergent;newspapers;sausage;tropical fruit;tropical fruit
+candy;frankfurter;pastry;pork;shopping bags;sliced cheese
+chewing gum;citrus fruit;coffee;root vegetables;shopping bags;whole milk
+bathroom cleaner;dish cleaner;domestic eggs;soft cheese;waffles;whole milk
+berries;kitchen towels;napkins;other vegetables;tropical fruit;yogurt
+beef;hamburger meat;meat spreads;newspapers;rum;whipped/sour cream
+dessert;domestic eggs;fruit/vegetable juice;liquor (appetizer);tropical fruit;waffles
+chicken;frankfurter;soft cheese;specialty fat;whipped/sour cream;white bread
+beef;butter milk;canned beer;chicken;processed cheese;shopping bags
+beef;chewing gum;chewing gum;detergent;frankfurter;margarine
+canned beer;chocolate;cooking chocolate;curd;mustard;white bread
+canned beer;pork;processed cheese;root vegetables;snack products;sugar
+cake bar;canned fish;pastry;rolls/buns;root vegetables;root vegetables
+cream cheese ;hard cheese;liquor;newspapers;other vegetables;root vegetables
+bottled beer;chocolate;rum;sausage;semi-finished bread;whole milk
+brown bread;butter milk;curd;pasta;rolls/buns;whole milk
+bottled water;chicken;detergent;flour;whole milk;yogurt
+dishes;pork;pot plants;soda;turkey;whole milk
+butter;coffee;other vegetables;pastry;rolls/buns;tropical fruit
+grapes;rolls/buns;rolls/buns;rolls/buns;whole milk;yogurt
+citrus fruit;frozen potato products;hamburger meat;napkins;semi-finished bread;whole milk
+dog food;domestic eggs;packaged fruit/vegetables;pastry;pip fruit;soft cheese
+bottled beer;hamburger meat;long life bakery product;margarine;soft cheese;whole milk
+bottled water;pastry;sauces;sliced cheese;sugar;tropical fruit
+citrus fruit;shopping bags;soda;white wine;whole milk;yogurt
+chocolate;dog food;hygiene articles;sausage;sausage;yogurt
+brown bread;canned beer;pip fruit;rolls/buns;shopping bags;soft cheese
+beef;cream cheese ;newspapers;root vegetables;tropical fruit;whole milk
+canned beer;chicken;frankfurter;softener;vinegar;whole milk
+bottled beer;frankfurter;margarine;mustard;rolls/buns;sausage
+baking powder;butter;curd;dishes;margarine;pastry
+bottled water;chewing gum;ketchup;sausage;soda;whole milk
+bottled beer;butter milk;pip fruit;root vegetables;tropical fruit;waffles
+bottled beer;domestic eggs;fruit/vegetable juice;rolls/buns;semi-finished bread;whole milk
+bottled beer;other vegetables;sausage;sliced cheese;soda;zwieback
+abrasive cleaner;root vegetables;root vegetables;soda;whipped/sour cream;white wine
+brown bread;canned beer;chocolate;frozen meals;frozen vegetables;sausage
+bottled water;condensed milk;misc. beverages;other vegetables;other vegetables;pastry
+butter;chicken;citrus fruit;rolls/buns;soft cheese;specialty bar
+bottled water;other vegetables;rolls/buns;root vegetables;soda;sugar
+cat food;herbs;pet care;soda;whole milk;whole milk
+flower (seeds);pastry;pot plants;pudding powder;whole milk;yogurt
+frankfurter;other vegetables;pip fruit;salty snack;whipped/sour cream;whole milk
+beef;other vegetables;root vegetables;whipped/sour cream;whipped/sour cream;whole milk
+curd;margarine;newspapers;other vegetables;pastry;sausage
+UHT-milk;beverages;frozen dessert;meat;sausage;sugar
+baking powder;candy;cling film/bags;newspapers;whipped/sour cream;whole milk
+curd;hard cheese;rolls/buns;salty snack;sausage;whipped/sour cream
+citrus fruit;ham;newspapers;onions;pasta;yogurt
+beverages;frozen dessert;honey;sausage;soda;whipped/sour cream
+chicken;onions;other vegetables;other vegetables;rolls/buns;spices
+beverages;napkins;sausage;semi-finished bread;white wine;whole milk
+other vegetables;other vegetables;rolls/buns;salty snack;semi-finished bread;shopping bags
+brown bread;canned beer;frankfurter;frozen vegetables;pip fruit;pudding powder
+beverages;detergent;oil;other vegetables;rolls/buns;specialty bar
+bottled beer;brown bread;cat food;citrus fruit;white bread;whole milk
+beef;newspapers;pet care;sausage;soda;yogurt
+other vegetables;pot plants;shopping bags;specialty chocolate;tropical fruit;white bread
+bottled beer;cream cheese ;other vegetables;rolls/buns;root vegetables;waffles
+coffee;hard cheese;newspapers;other vegetables;soda;whipped/sour cream
+butter;chocolate;fruit/vegetable juice;root vegetables;sliced cheese;specialty bar
+domestic eggs;misc. beverages;pork;semi-finished bread;sparkling wine;whipped/sour cream
+butter;hamburger meat;rolls/buns;shopping bags;soda;tropical fruit
+citrus fruit;dental care;pip fruit;shopping bags;soda;yogurt
+margarine;rolls/buns;sausage;shopping bags;tropical fruit;yogurt
+bottled beer;domestic eggs;margarine;newspapers;root vegetables;shopping bags
+canned beer;hygiene articles;sausage;soda;whole milk;zwieback
+chicken;coffee;curd cheese;grapes;napkins;pot plants
+canned beer;chocolate;coffee;pork;shopping bags;tropical fruit
+bottled water;citrus fruit;pickled vegetables;rolls/buns;soda;tropical fruit
+oil;root vegetables;shopping bags;shopping bags;soda;yogurt
+brandy;canned beer;cat food;dishes;light bulbs;waffles
+beef;bottled water;grapes;shopping bags;sliced cheese;turkey
+brown bread;hamburger meat;hygiene articles;hygiene articles;root vegetables;whole milk
+beef;chocolate;finished products;other vegetables;sugar;whole milk
+butter;cream cheese ;liquor (appetizer);onions;specialty cheese;whole milk
+bottled beer;newspapers;pip fruit;whole milk;yogurt;yogurt
+bottled beer;curd;curd;misc. beverages;newspapers;turkey
+beef;curd;margarine;root vegetables;shopping bags;turkey
+bottled water;decalcifier;misc. beverages;rolls/buns;semi-finished bread;soda
+butter milk;pip fruit;root vegetables;sausage;sausage;sliced cheese
+beef;citrus fruit;coffee;fruit/vegetable juice;specialty chocolate;tropical fruit
+bottled water;cereals;chicken;curd;rolls/buns;whole milk
+bottled water;newspapers;other vegetables;pet care;whole milk;yogurt
+bottled water;ice cream;pip fruit;popcorn;rolls/buns;soda
+beverages;frozen vegetables;meat;salty snack;sausage;white wine
+artif. sweetener;cat food;hamburger meat;packaged fruit/vegetables;tropical fruit;whole milk
+bottled beer;butter;liquor (appetizer);photo/film;pip fruit;sweet spreads
+butter milk;candy;grapes;other vegetables;soft cheese;yogurt
+berries;hygiene articles;other vegetables;root vegetables;whipped/sour cream;white bread
+bottled water;mustard;other vegetables;pet care;root vegetables;whole milk
+brown bread;citrus fruit;male cosmetics;pip fruit;pork;yogurt
+abrasive cleaner;beef;pasta;pork;salty snack;shopping bags
+bottled beer;frankfurter;packaged fruit/vegetables;sausage;shopping bags;yogurt
+berries;cleaner;ham;rolls/buns;rum;whole milk
+canned beer;chocolate;frozen fish;ready soups;soda;whole milk
+beef;bottled beer;domestic eggs;newspapers;shopping bags;whipped/sour cream
+beef;other vegetables;semi-finished bread;shopping bags;soda;white wine
+citrus fruit;ham;pastry;soda;turkey;whole milk
+curd;domestic eggs;domestic eggs;domestic eggs;other vegetables;pork
+citrus fruit;hamburger meat;root vegetables;shopping bags;sugar;tea
+berries;condensed milk;grapes;nut snack;soda;waffles
+oil;other vegetables;salty snack;sausage;tropical fruit;whipped/sour cream
+Instant food products;bottled water;butter milk;citrus fruit;mayonnaise;root vegetables
+cream cheese ;rolls/buns;shopping bags;tropical fruit;whole milk;whole milk
+citrus fruit;fruit/vegetable juice;pot plants;roll products ;rolls/buns;yogurt
+bottled water;butter milk;chocolate;citrus fruit;shopping bags;zwieback
+domestic eggs;nut snack;other vegetables;sausage;shopping bags;yogurt
+baking powder;bottled beer;chewing gum;chicken;meat;shopping bags
+berries;other vegetables;pot plants;shopping bags;tropical fruit;tropical fruit
+bottled water;herbs;pip fruit;sweet spreads;tropical fruit;yogurt
+candles;liquor (appetizer);other vegetables;other vegetables;red/blush wine;specialty bar
+berries;chewing gum;coffee;margarine;soda;yogurt
+detergent;other vegetables;pork;shopping bags;soft cheese;yogurt
+butter;domestic eggs;frankfurter;frankfurter;margarine;other vegetables
+detergent;dishes;ham;sausage;whipped/sour cream;yogurt
+cream cheese ;frozen meals;meat;rolls/buns;whipped/sour cream;yogurt
+beef;berries;bottled water;butter;chocolate;yogurt
+canned beer;canned beer;dessert;flour;meat spreads;packaged fruit/vegetables
+bottled beer;candy;frozen potato products;pastry;rolls/buns;whole milk
+coffee;pastry;pip fruit;red/blush wine;salt;sausage
+UHT-milk;candy;citrus fruit;coffee;frankfurter;fruit/vegetable juice
+citrus fruit;dishes;frankfurter;frankfurter;semi-finished bread;whipped/sour cream
+frozen meals;hygiene articles;other vegetables;rolls/buns;sausage;tropical fruit
+chicken;citrus fruit;hard cheese;margarine;other vegetables;soft cheese
+brown bread;frozen meals;fruit/vegetable juice;pastry;pip fruit;white bread
+frankfurter;honey;newspapers;newspapers;pastry;sausage
+bottled water;butter;chocolate;frozen meals;fruit/vegetable juice;whole milk
+brown bread;butter;ham;pastry;root vegetables;spread cheese
+beef;bottled water;butter;candy;cling film/bags;sweet spreads
+chicken;frozen vegetables;packaged fruit/vegetables;sausage;whole milk
+canned beer;cream cheese ;red/blush wine;shopping bags;whole milk
+beef;chicken;chocolate;newspapers;organic products
+fruit/vegetable juice;hamburger meat;pork;whole milk;whole milk
+artif. sweetener;bottled water;butter;butter milk;soda
+coffee;curd;frankfurter;rolls/buns;white bread
+frankfurter;mayonnaise;oil;pip fruit;rolls/buns
+bottled water;butter;canned beer;pastry;turkey
+beverages;cereals;mayonnaise;packaged fruit/vegetables;tropical fruit
+butter;other vegetables;rolls/buns;rolls/buns;root vegetables
+curd;pip fruit;sausage;soda;waffles
+beverages;curd;fruit/vegetable juice;hard cheese;meat
+domestic eggs;frankfurter;fruit/vegetable juice;sausage;whole milk
+frankfurter;mayonnaise;misc. beverages;pastry;whipped/sour cream
+bottled water;domestic eggs;jam;soda;whole milk
+butter;fruit/vegetable juice;pork;sausage;whole milk
+canned fruit;onions;rolls/buns;soda;whole milk
+berries;citrus fruit;coffee;soda;sugar
+pork;sugar;waffles;whole milk;whole milk
+berries;cat food;condensed milk;frozen vegetables;tea
+butter;ham;sausage;shopping bags;whole milk
+brown bread;chocolate;citrus fruit;frozen fish;rolls/buns
+beverages;herbs;rolls/buns;soda;whole milk
+brown bread;fruit/vegetable juice;pork;shopping bags
+citrus fruit;dishes;fruit/vegetable juice;whole milk
+grapes;napkins;sausage;sliced cheese
+citrus fruit;root vegetables;soft cheese;yogurt
+brown bread;other vegetables;pip fruit;soda
+Instant food products;butter;cake bar;whipped/sour cream
+other vegetables;rolls/buns;sausage;soda
+frankfurter;specialty bar;whole milk;whole milk
+chicken;shopping bags;vinegar;whole milk
+other vegetables;spread cheese;whole milk;yogurt
+bottled water;brown bread;chicken;hygiene articles
+chicken;margarine;other vegetables;rolls/buns
+beef;butter milk;ham;sliced cheese
+pip fruit;root vegetables;shopping bags;white wine
+baking powder;bottled water;sausage;specialty chocolate
+canned fish;ham;rolls/buns;shopping bags
+butter milk;liquor;other vegetables;whole milk
+canned beer;rum;sausage;spices
+nut snack;sliced cheese;tropical fruit;whole milk
+ham;hard cheese;rolls/buns;yogurt
+citrus fruit;condensed milk;tropical fruit;whipped/sour cream
+bottled beer;candy;canned beer;pip fruit
+berries;bottled beer;seasonal products;sugar
+berries;bottled water;whipped/sour cream;whole milk
+grapes;root vegetables;shopping bags;whole milk
+other vegetables;pip fruit;semi-finished bread;sliced cheese
+pip fruit;rolls/buns;whole milk;yogurt
+butter milk;citrus fruit;specialty bar;whole milk
+hamburger meat;margarine;soft cheese;yogurt
+domestic eggs;domestic eggs;soda;tropical fruit
+pastry;pork;soda;whipped/sour cream
+newspapers;organic sausage;pip fruit;whipped/sour cream
+cream cheese ;onions;root vegetables;soap
+UHT-milk;female sanitary products;rolls/buns;sausage
+bottled beer;sausage;soda;yogurt
+frozen fish;processed cheese;root vegetables;root vegetables
+canned beer;rolls/buns;root vegetables;specialty cheese
+brown bread;pork;rolls/buns;soda
+pastry;pot plants;whole milk;yogurt
+bottled water;brown bread;butter;ham
+beef;curd;frankfurter;whipped/sour cream
+UHT-milk;butter;herbs;oil
+UHT-milk;abrasive cleaner;beef;frozen vegetables
+butter milk;pip fruit;whole milk;yogurt
+bottled beer;hamburger meat;tropical fruit;yogurt
+cat food;margarine;meat;sugar
+canned beer;light bulbs;other vegetables;whole milk
+butter milk;cream cheese ;root vegetables;shopping bags
+liqueur;onions;soda;whole milk
+other vegetables;other vegetables;soda;soda
+detergent;margarine;yogurt;zwieback
+frankfurter;frozen meals;soda;tropical fruit
+pastry;salty snack;sugar;whole milk
+misc. beverages;processed cheese;rolls/buns;sausage
+chicken;pastry;rolls/buns;yogurt
+curd;domestic eggs;root vegetables;semi-finished bread
+condensed milk;fruit/vegetable juice;specialty fat;white wine
+brown bread;canned beer;herbs;pastry
+frankfurter;fruit/vegetable juice;pasta;whole milk
+pip fruit;pork;salty snack;yogurt
+rolls/buns;soap;tropical fruit;whole milk
+brown bread;shopping bags;tropical fruit;yogurt
+domestic eggs;pork;sweet spreads;whole milk
+bottled beer;pasta;root vegetables;white bread
+candy;citrus fruit;pastry;softener
+curd;house keeping products;pickled vegetables;rolls/buns
+coffee;pip fruit;salty snack;whole milk
+frozen meals;ham;sparkling wine;tropical fruit
+chicken;dishes;hard cheese;waffles
+beverages;bottled water;sausage;white bread
+beverages;margarine;napkins;napkins
+canned fish;citrus fruit;oil;pork
+beef;canned beer;ice cream;yogurt
+brown bread;instant coffee;salty snack;specialty bar
+frozen vegetables;other vegetables;rolls/buns;yogurt
+newspapers;pastry;white bread;whole milk
+instant coffee;salty snack;tropical fruit;yogurt
+baking powder;chocolate;frozen vegetables;whipped/sour cream
+bottled beer;frozen dessert;grapes;whole milk
+frozen vegetables;other vegetables;white wine;yogurt
+bottled water;coffee;packaged fruit/vegetables;pastry
+butter milk;red/blush wine;root vegetables;soda
+butter milk;rolls/buns;white bread;whole milk
+beverages;pork;soda;whole milk
+candy;coffee;condensed milk;onions
+bottled water;coffee;cream cheese ;sugar
+candy;frankfurter;fruit/vegetable juice;whole milk
+mayonnaise;other vegetables;sausage;tropical fruit
+bottled water;fruit/vegetable juice;spices;yogurt
+curd;fruit/vegetable juice;packaged fruit/vegetables;sausage
+domestic eggs;salty snack;shopping bags;whole milk
+UHT-milk;baking powder;light bulbs;pastry
+bottled water;cream cheese ;hard cheese;onions
+bottled water;dessert;tropical fruit;white bread
+bottled beer;seasonal products;soups;sugar
+liquor (appetizer);soda;tropical fruit;whole milk
+bottled water;packaged fruit/vegetables;processed cheese;yogurt
+domestic eggs;newspapers;other vegetables;semi-finished bread
+hygiene articles;oil;pip fruit;soda
+coffee;frankfurter;rolls/buns;white wine
+beef;bottled beer;coffee;domestic eggs
+curd cheese;hard cheese;long life bakery product;whole milk
+butter;pickled vegetables;syrup;whole milk
+curd;root vegetables;whole milk;yogurt
+pastry;semi-finished bread;soda;white bread
+berries;soap;tropical fruit;whole milk
+frozen vegetables;misc. beverages;rolls/buns;root vegetables
+bottled water;cling film/bags;frozen vegetables;other vegetables
+frozen meals;margarine;root vegetables;shopping bags
+ham;newspapers;other vegetables;root vegetables
+butter;butter;domestic eggs;rolls/buns
+citrus fruit;newspapers;pastry;whole milk
+frozen vegetables;fruit/vegetable juice;rolls/buns;yogurt
+candy;chewing gum;coffee;hamburger meat
+berries;curd;grapes;sausage
+frozen meals;other vegetables;rolls/buns;sparkling wine
+Instant food products;other vegetables;rolls/buns;whole milk
+other vegetables;processed cheese;root vegetables;tropical fruit
+ice cream;margarine;pastry;sliced cheese
+candles;canned beer;pickled vegetables;soda
+brandy;canned fish;tropical fruit;whole milk
+citrus fruit;hard cheese;pastry;salty snack
+misc. beverages;rolls/buns;specialty chocolate;yogurt
+candy;canned fish;dessert;rolls/buns
+brandy;margarine;root vegetables;shopping bags
+brown bread;canned beer;other vegetables;salty snack
+coffee;soda;softener;tropical fruit
+potato products;tropical fruit;whole milk;whole milk
+curd;female sanitary products;soda;specialty chocolate
+frankfurter;ice cream;mustard;soda
+bottled water;coffee;misc. beverages;other vegetables
+domestic eggs;frozen fish;mustard;tropical fruit
+fruit/vegetable juice;ham;soft cheese;sugar
+dishes;other vegetables;rolls/buns;soda
+brown bread;pastry;tropical fruit;whole milk
+canned beer;frozen fish;rolls/buns;spices
+cereals;other vegetables;sausage;tropical fruit
+bottled water;bottled water;kitchen utensil;pasta;rolls/buns
+UHT-milk;chocolate;flour;long life bakery product;sausage;whole milk
+berries;cat food;pip fruit;specialty bar
+beef;brown bread;citrus fruit;sugar;yogurt
+canned beer;newspapers;root vegetables;semi-finished bread
+berries;soda;tropical fruit;whole milk
+root vegetables;soda;specialty chocolate;tropical fruit
+UHT-milk;cream cheese ;other vegetables;rolls/buns
+canned beer;hygiene articles;sugar;whole milk
+cat food;fruit/vegetable juice;jam;other vegetables
+candy;misc. beverages;oil;yogurt
+dish cleaner;other vegetables;other vegetables;soda
+cream cheese ;frozen dessert;shopping bags;zwieback
+UHT-milk;napkins;tropical fruit;whole milk
+hygiene articles;pastry;root vegetables;soda
+brown bread;rolls/buns;soda;whole milk
+beef;frozen dessert;whipped/sour cream;whole milk
+artif. sweetener;canned beer;rolls/buns;soda
+ham;light bulbs;soda;whipped/sour cream
+butter;domestic eggs;root vegetables;specialty bar
+butter;flour;fruit/vegetable juice;fruit/vegetable juice
+ice cream;instant coffee;soups;white wine
+oil;packaged fruit/vegetables;photo/film;whole milk
+cream cheese ;other vegetables;pudding powder;whole milk
+hard cheese;herbs;misc. beverages;sugar
+canned fish;chewing gum;other vegetables;other vegetables
+bottled water;chocolate;dishes;soft cheese
+bottled water;rolls/buns;salty snack;shopping bags
+female sanitary products;liquor;onions;other vegetables
+frozen meals;other vegetables;root vegetables;whole milk
+chocolate;honey;spices;yogurt
+frozen vegetables;pastry;pot plants;rolls/buns
+cooking chocolate;roll products ;sausage;soda
+newspapers;soda;whipped/sour cream;whole milk
+frozen potato products;root vegetables;sugar;whipped/sour cream
+chocolate;other vegetables;rolls/buns;soda
+bottled water;margarine;meat spreads;other vegetables
+brown bread;napkins;salty snack;yogurt
+curd cheese;decalcifier;flower (seeds);shopping bags
+bottled beer;onions;rolls/buns;yogurt
+processed cheese;rolls/buns;whipped/sour cream;yogurt
+bottled beer;curd;newspapers;whole milk
+citrus fruit;other vegetables;pastry;whole milk
+cream cheese ;detergent;newspapers;yogurt
+bottled water;domestic eggs;margarine;pickled vegetables
+cat food;cling film/bags;pip fruit;yogurt
+chocolate;soda;sugar;white bread
+bottled water;newspapers;other vegetables;turkey
+baking powder;bottled beer;red/blush wine;tropical fruit
+napkins;other vegetables;soda;soda
+brown bread;candy;cream cheese ;soda
+margarine;margarine;packaged fruit/vegetables;specialty cheese
+long life bakery product;rolls/buns;rolls/buns;root vegetables
+bottled beer;cat food;mustard;yogurt
+dessert;dishes;soda;sugar
+chocolate marshmallow;cream cheese ;pastry;spread cheese
+pastry;rolls/buns;soap;specialty cheese
+frozen meals;long life bakery product;nut snack;whole milk
+bottled beer;bottled water;sugar;whipped/sour cream
+other vegetables;pot plants;salty snack;yogurt
+frozen vegetables;other vegetables;red/blush wine;rolls/buns
+domestic eggs;newspapers;other vegetables;shopping bags
+detergent;margarine;soda;tropical fruit
+candles;dessert;hard cheese;pastry
+rolls/buns;soda;white bread;white wine
+butter;margarine;other vegetables;soda
+bottled water;ketchup;light bulbs;pip fruit
+cat food;cream cheese ;pip fruit;shopping bags
+brown bread;misc. beverages;other vegetables;rolls/buns
+candy;cling film/bags;curd;rolls/buns
+detergent;fruit/vegetable juice;oil;other vegetables
+brown bread;brown bread;canned fish;whole milk
+bottled beer;bottled water;packaged fruit/vegetables;sugar
+domestic eggs;long life bakery product;popcorn;root vegetables
+brown bread;detergent;fruit/vegetable juice;root vegetables
+beef;bottled water;spread cheese;waffles
+hard cheese;long life bakery product;whipped/sour cream;yogurt
+bottled water;flour;shopping bags;soda
+candy;citrus fruit;pasta;soda
+berries;dessert;female sanitary products;sugar
+bottled beer;rolls/buns;rolls/buns;root vegetables
+seasonal products;soda;specialty chocolate;white bread
+dish cleaner;frozen meals;margarine;yogurt
+brown bread;misc. beverages;napkins;yogurt
+butter;chocolate;frozen fish;yogurt
+domestic eggs;salty snack;soda;spread cheese
+detergent;ice cream;rolls/buns;whole milk
+cleaner;coffee;female sanitary products;sauces
+bottled water;herbs;pastry;specialty bar
+brown bread;chewing gum;coffee;napkins
+other vegetables;root vegetables;sweet spreads;whipped/sour cream
+fruit/vegetable juice;pasta;pip fruit;rolls/buns
+bottled beer;bottled water;pastry;root vegetables
+domestic eggs;hygiene articles;misc. beverages;rolls/buns
+butter milk;domestic eggs;ice cream;tropical fruit
+cat food;chocolate;coffee;fruit/vegetable juice
+long life bakery product;napkins;pastry;whole milk
+canned beer;hygiene articles;soda;whole milk
+napkins;other vegetables;whipped/sour cream;yogurt
+detergent;fruit/vegetable juice;snack products;yogurt
+domestic eggs;misc. beverages;onions;whole milk
+chewing gum;flour;rolls/buns;soda
+curd;misc. beverages;pickled vegetables;yogurt
+bottled beer;fruit/vegetable juice;margarine;whipped/sour cream
+frozen vegetables;fruit/vegetable juice;rolls/buns;whole milk
+candy;curd;whole milk;yogurt
+bottled beer;cake bar;tropical fruit;yogurt
+brown bread;rolls/buns;rolls/buns;sliced cheese
+curd;long life bakery product;pot plants;soda
+coffee;detergent;pasta;rolls/buns
+UHT-milk;specialty chocolate;whole milk;yogurt
+UHT-milk;bottled beer;herbs;rolls/buns
+bottled water;fruit/vegetable juice;root vegetables;soda
+margarine;other vegetables;processed cheese;shopping bags
+bottled beer;frozen meals;root vegetables;whole milk
+UHT-milk;soda;whole milk;whole milk
+pasta;pip fruit;whole milk;yogurt
+bottled beer;other vegetables;root vegetables;softener
+coffee;packaged fruit/vegetables;pudding powder;shopping bags
+cereals;frozen vegetables;pip fruit;root vegetables
+coffee;hard cheese;pot plants;rolls/buns
+dessert;soda;whipped/sour cream;whole milk
+coffee;liquor (appetizer);red/blush wine;sauces
+margarine;napkins;soda;tropical fruit
+canned beer;grapes;pastry;whipped/sour cream
+dish cleaner;frozen vegetables;waffles;whole milk
+bottled water;pastry;soda;yogurt
+brown bread;frozen meals;frozen vegetables;whole milk
+UHT-milk;domestic eggs;pastry;soda
+bottled beer;brown bread;chewing gum;domestic eggs
+dessert;long life bakery product;rolls/buns;tropical fruit
+domestic eggs;processed cheese;soda;whole milk
+dessert;pickled vegetables;rolls/buns;sausage
+long life bakery product;long life bakery product;soda;whipped/sour cream
+brown bread;cream cheese ;rolls/buns;salty snack
+candy;candy;semi-finished bread;whole milk
+pet care;pip fruit;shopping bags;white wine
+butter;chewing gum;coffee;salty snack
+frozen dessert;hamburger meat;oil;other vegetables
+meat;whole milk;whole milk;yogurt
+chocolate marshmallow;cream cheese ;curd;female sanitary products;nut snack;yogurt
+brandy;candy;citrus fruit;rolls/buns
+curd;curd cheese;misc. beverages;pork
+hamburger meat;hygiene articles;other vegetables;popcorn
+coffee;newspapers;soda;whole milk
+canned beer;canned vegetables;other vegetables;soda
+cat food;processed cheese;rolls/buns;whole milk
+oil;sliced cheese;soda;syrup
+butter;citrus fruit;hard cheese;soda
+citrus fruit;soda;whipped/sour cream;whole milk
+newspapers;shopping bags;soda;spices
+frozen vegetables;napkins;pastry;tropical fruit
+beef;detergent;shopping bags;waffles
+oil;pastry;whipped/sour cream;whipped/sour cream
+butter;citrus fruit;ice cream;shopping bags
+candy;domestic eggs;white wine;whole milk
+butter;chewing gum;newspapers;whole milk
+cake bar;chewing gum;citrus fruit;shopping bags
+brown bread;citrus fruit;napkins;snack products
+butter;fruit/vegetable juice;soda;whole milk
+bottled water;chocolate marshmallow;napkins;tropical fruit
+bottled water;brown bread;onions;red/blush wine
+root vegetables;shopping bags;sliced cheese;sliced cheese
+chocolate;root vegetables;shopping bags;yogurt
+dessert;fruit/vegetable juice;other vegetables;other vegetables
+candy;canned beer;dish cleaner;long life bakery product
+ice cream;napkins;nut snack;rolls/buns
+frozen vegetables;other vegetables;shopping bags;shopping bags
+bottled water;candy;citrus fruit;rolls/buns
+curd;house keeping products;sausage;soda
+bottled water;canned beer;domestic eggs;waffles
+coffee;domestic eggs;root vegetables;soda
+brown bread;cake bar;hamburger meat;pastry
+canned beer;soda;soft cheese;waffles
+chocolate;other vegetables;rolls/buns;waffles
+detergent;dishes;mayonnaise;other vegetables
+bottled water;bottled water;coffee;sugar
+margarine;napkins;pastry;shopping bags
+bottled water;brown bread;other vegetables;specialty bar
+margarine;newspapers;rolls/buns;yogurt
+chewing gum;citrus fruit;frozen vegetables;margarine
+berries;candy;other vegetables;sliced cheese
+Instant food products;citrus fruit;jam;specialty bar
+mustard;onions;rolls/buns;sugar
+bottled water;domestic eggs;processed cheese;whole milk
+bottled beer;bottled water;cat food;soda
+condensed milk;curd;flower soil/fertilizer;hard cheese
+bottled water;red/blush wine;root vegetables;white wine
+butter milk;fruit/vegetable juice;margarine;pastry
+hamburger meat;newspapers;pastry;soda
+butter;other vegetables;other vegetables;pastry
+long life bakery product;meat;napkins;yogurt
+long life bakery product;other vegetables;soda;whole milk
+bottled beer;butter;pastry;seasonal products
+beverages;napkins;other vegetables;sliced cheese
+chewing gum;ham;rolls/buns;rolls/buns
+UHT-milk;bottled water;candy;whole milk
+bottled water;other vegetables;whole milk;yogurt
+chewing gum;pastry;shopping bags;whole milk
+brown bread;coffee;sweet spreads;whole milk
+beef;chewing gum;frozen fish;sparkling wine
+canned fish;other vegetables;waffles;white bread
+brown bread;curd cheese;frozen meals;other vegetables
+canned fish;specialty cheese;specialty vegetables;yogurt
+canned beer;ice cream;salt;yogurt
+canned fish;curd;other vegetables;rice
+UHT-milk;canned fish;root vegetables;waffles
+berries;bottled water;curd;shopping bags
+curd;margarine;pip fruit;root vegetables;whole milk
+newspapers;other vegetables;rolls/buns;rolls/buns;whole milk
+coffee;root vegetables;salty snack;sausage
+bottled beer;bottled water;newspapers;seasonal products
+berries;bottled beer;frozen dessert;rice;rolls/buns;white bread
+chicken;other vegetables;shopping bags;whole milk
+dishes;domestic eggs;frozen vegetables;soda
+canned beer;oil;root vegetables;whole milk
+citrus fruit;ice cream;soups;yogurt
+candles;meat;tropical fruit;yogurt
+brown bread;pastry;pickled vegetables;sugar
+canned beer;chocolate;male cosmetics;white bread
+newspapers;root vegetables;shopping bags;sliced cheese
+butter;long life bakery product;newspapers;rolls/buns
+organic products;soda;sugar;waffles
+domestic eggs;tropical fruit;vinegar;whipped/sour cream
+cake bar;cat food;soda;tropical fruit
+abrasive cleaner;napkins;packaged fruit/vegetables;whole milk
+beef;frozen vegetables;soda;whole milk
+chocolate;chocolate;processed cheese;yogurt
+long life bakery product;semi-finished bread;shopping bags;soda
+bottled water;pip fruit;popcorn;rolls/buns
+bottled water;curd;salt;tropical fruit
+chocolate;packaged fruit/vegetables;rolls/buns;whole milk
+fruit/vegetable juice;fruit/vegetable juice;rolls/buns;specialty chocolate
+domestic eggs;newspapers;whole milk;yogurt
+canned beer;newspapers;specialty bar;white bread
+bottled water;flour;pastry;tropical fruit
+bottled water;fruit/vegetable juice;long life bakery product;meat
+candles;margarine;processed cheese;shopping bags
+brown bread;candy;citrus fruit;domestic eggs
+candles;canned beer;domestic eggs;margarine
+brown bread;butter milk;frozen meals;oil
+dishes;napkins;pastry;semi-finished bread
+bottled beer;mustard;newspapers;pickled vegetables
+pot plants;shopping bags;sugar;tropical fruit
+butter;cake bar;fruit/vegetable juice;ice cream
+coffee;detergent;rolls/buns;tropical fruit
+frozen fish;newspapers;soda;tropical fruit
+brown bread;rolls/buns;sliced cheese;soda
+cereals;frozen meals;ready soups;white bread
+herbs;newspapers;newspapers;rolls/buns
+rolls/buns;rolls/buns;root vegetables;whipped/sour cream
+roll products ;root vegetables;root vegetables;whole milk
+curd;hard cheese;newspapers;shopping bags
+brown bread;frozen vegetables;soda;yogurt
+abrasive cleaner;red/blush wine;specialty cheese;whipped/sour cream
+fruit/vegetable juice;shopping bags;shopping bags;whole milk
+frozen vegetables;fruit/vegetable juice;rolls/buns;whipped/sour cream
+chocolate;frozen vegetables;soda;whole milk
+meat;red/blush wine;soda;yogurt
+bottled water;curd cheese;newspapers;whipped/sour cream
+curd;curd;grapes;shopping bags
+hamburger meat;newspapers;sugar;whipped/sour cream
+pastry;root vegetables;soda;whole milk
+liquor;long life bakery product;shopping bags;vinegar
+cream cheese ;napkins;whipped/sour cream;whole milk
+bottled beer;chewing gum;ready soups;whole milk
+flour;herbs;oil;whipped/sour cream
+beverages;ice cream;other vegetables;shopping bags
+domestic eggs;ice cream;pot plants;rolls/buns
+candy;coffee;rolls/buns;yogurt
+bottled beer;long life bakery product;pot plants;vinegar
+baking powder;bottled water;onions;rolls/buns
+bottled water;chocolate;margarine;soda
+bottled beer;fruit/vegetable juice;other vegetables;white bread
+bottled water;brown bread;rolls/buns;white bread
+bottled beer;citrus fruit;dessert;other vegetables
+cream cheese ;frozen vegetables;other vegetables;specialty chocolate
+UHT-milk;frozen vegetables;soda;whole milk
+canned vegetables;domestic eggs;flower (seeds);whole milk
+canned beer;dessert;other vegetables;pastry
+chocolate;cleaner;herbs;vinegar
+butter;frozen meals;newspapers;yogurt
+artif. sweetener;canned fish;chocolate;rolls/buns
+brown bread;oil;oil;seasonal products
+fruit/vegetable juice;margarine;margarine;white bread
+canned vegetables;long life bakery product;soft cheese;waffles
+butter;root vegetables;yogurt;yogurt
+butter milk;domestic eggs;frozen potato products;shopping bags
+bottled water;pot plants;soda;yogurt
+brown bread;butter milk;canned vegetables;soda
+butter milk;cat food;napkins;shopping bags
+beverages;rolls/buns;soups;white bread
+coffee;tropical fruit;waffles;whipped/sour cream
+dental care;pot plants;seasonal products;whole milk
+brown bread;canned beer;canned vegetables;onions
+other vegetables;waffles;white bread;whole milk
+cake bar;shopping bags;yogurt;yogurt
+frozen dessert;pastry;whipped/sour cream;white bread
+UHT-milk;bottled water;frozen vegetables;frozen vegetables
+butter;cling film/bags;fruit/vegetable juice;yogurt
+prosecco;rolls/buns;specialty chocolate;white bread
+canned fish;fruit/vegetable juice;light bulbs;long life bakery product
+long life bakery product;rum;tropical fruit;whole milk
+pastry;pickled vegetables;whole milk;whole milk
+artif. sweetener;dessert;detergent;herbs
+bottled water;kitchen towels;processed cheese;tropical fruit
+berries;specialty chocolate;white bread;whole milk
+coffee;cream cheese ;frozen vegetables;sugar
+chewing gum;dessert;newspapers;other vegetables
+UHT-milk;bottled water;long life bakery product;rolls/buns
+frozen vegetables;newspapers;rolls/buns;whole milk
+brown bread;cat food;frozen meals;white bread
+Instant food products;tropical fruit;whipped/sour cream;yogurt
+fruit/vegetable juice;soda;soda;whole milk
+frozen vegetables;light bulbs;mustard;napkins
+hard cheese;pastry;specialty chocolate;yogurt
+flour;margarine;whole milk;whole milk
+bottled water;curd;ready soups;white bread
+chocolate;herbs;margarine;rolls/buns
+bottled water;curd;dessert;whole milk
+frozen vegetables;pip fruit;whipped/sour cream;whipped/sour cream
+domestic eggs;frozen vegetables;fruit/vegetable juice;yogurt
+liquor (appetizer);rolls/buns;specialty chocolate;yogurt
+curd;other vegetables;pudding powder;yogurt
+brandy;butter;frozen meals;whole milk
+canned beer;fruit/vegetable juice;rolls/buns;tropical fruit
+liquor (appetizer);napkins;rolls/buns;yogurt
+brown bread;canned beer;rice;syrup
+butter milk;fruit/vegetable juice;rubbing alcohol;whole milk
+hygiene articles;instant coffee;instant coffee;other vegetables
+brown bread;curd;pastry;tropical fruit
+domestic eggs;hard cheese;hygiene articles;pip fruit
+domestic eggs;fruit/vegetable juice;rolls/buns;yogurt
+baking powder;ham;sliced cheese;whole milk
+herbs;rolls/buns;soft cheese;yogurt
+fruit/vegetable juice;rolls/buns;semi-finished bread;tropical fruit
+domestic eggs;other vegetables;pastry;soap
+bottled beer;margarine;tropical fruit;whole milk
+bottled water;brown bread;curd;pastry
+hard cheese;instant coffee;newspapers;salty snack
+domestic eggs;soda;softener;whole milk
+UHT-milk;candles;salty snack;yogurt
+long life bakery product;pastry;sliced cheese;yogurt
+frozen dessert;salty snack;semi-finished bread;waffles
+domestic eggs;long life bakery product;rolls/buns;whole milk
+bottled beer;brown bread;hamburger meat;yogurt
+cookware;liquor (appetizer);oil;seasonal products
+Instant food products;salty snack;softener;whole milk
+cat food;dessert;salty snack;white bread
+candy;domestic eggs;sugar;tropical fruit
+curd;liquor;other vegetables;rolls/buns
+bottled beer;butter milk;canned vegetables;rice
+bottled water;ice cream;white bread;whole milk
+pastry;shopping bags;white bread;whole milk
+bottled water;curd;other vegetables;white bread
+dental care;instant coffee;onions;processed cheese
+bottled beer;dishes;oil;whole milk
+curd;rolls/buns;whipped/sour cream;yogurt
+flour;other vegetables;other vegetables;yogurt
+margarine;other vegetables;salty snack;soda
+baking powder;butter milk;salty snack;soda
+pip fruit;salt;white bread;white wine
+ham;hygiene articles;processed cheese;waffles
+dessert;domestic eggs;whole milk;whole milk
+other vegetables;pastry;rolls/buns;root vegetables
+bottled beer;other vegetables;rolls/buns;shopping bags
+cat food;frozen dessert;fruit/vegetable juice;zwieback
+brown bread;shopping bags;tea;yogurt
+other vegetables;pork;white bread;yogurt
+bottled beer;bottled beer;cream cheese ;yogurt
+domestic eggs;newspapers;rolls/buns;specialty fat
+coffee;domestic eggs;photo/film;soda
+brown bread;dishes;shopping bags;white bread
+bottled beer;oil;other vegetables;tropical fruit
+butter;frozen vegetables;hard cheese;meat spreads
+margarine;soft cheese;yogurt;yogurt
+long life bakery product;pasta;soda;specialty chocolate
+margarine;pickled vegetables;rolls/buns;shopping bags
+soda;soda;sweet spreads;whole milk
+chocolate;frozen meals;rolls/buns;shopping bags
+other vegetables;soda;sweet spreads;whole milk
+artif. sweetener;bottled water;cocoa drinks;soda
+coffee;root vegetables;shopping bags;specialty bar
+butter milk;chewing gum;other vegetables;specialty chocolate
+hard cheese;napkins;rolls/buns;root vegetables
+domestic eggs;whole milk;whole milk;whole milk
+domestic eggs;sliced cheese;soda;soda
+chewing gum;oil;soda;yogurt
+canned fish;frozen vegetables;pork;zwieback
+baking powder;margarine;pip fruit;white bread
+berries;canned beer;fruit/vegetable juice;male cosmetics
+dish cleaner;frozen fish;newspapers;whole milk
+margarine;newspapers;specialty chocolate;tropical fruit
+bottled beer;frozen vegetables;rolls/buns;soda
+cake bar;domestic eggs;napkins;root vegetables
+bottled beer;coffee;margarine;newspapers
+snack products;soda;whipped/sour cream;white bread
+cat food;frozen meals;fruit/vegetable juice;processed cheese
+bottled water;flower (seeds);specialty chocolate;whipped/sour cream
+cat food;margarine;soda;yogurt
+flour;oil;processed cheese;rolls/buns
+cream cheese ;pasta;shopping bags;tropical fruit
+bottled water;other vegetables;rolls/buns;soda
+domestic eggs;house keeping products;whipped/sour cream;whole milk
+brown bread;chicken;hygiene articles;yogurt
+flour;pip fruit;rolls/buns;yogurt
+coffee;long life bakery product;margarine;yogurt
+dishes;domestic eggs;oil;waffles
+popcorn;root vegetables;soups;specialty chocolate
+canned beer;dish cleaner;rolls/buns;tropical fruit
+brown bread;hard cheese;newspapers;other vegetables;roll products ;soda
+domestic eggs;rolls/buns;white bread;yogurt
+mustard;newspapers;rolls/buns;white bread
+brown bread;chocolate;fruit/vegetable juice;margarine
+brown bread;cat food;pastry;rolls/buns
+Instant food products;canned beer;whole milk;whole milk
+bottled water;root vegetables;sugar;white bread
+bottled beer;misc. beverages;rolls/buns;salt
+bottled beer;cream cheese ;frozen vegetables;pastry
+beef;hard cheese;soft cheese;yogurt
+chocolate;domestic eggs;onions;root vegetables
+domestic eggs;long life bakery product;onions;pastry
+shopping bags;soda;spread cheese;yogurt
+fruit/vegetable juice;pickled vegetables;sugar;yogurt
+bottled beer;cat food;pastry;yogurt
+fruit/vegetable juice;liquor;male cosmetics;meat
+frozen meals;kitchen towels;specialty bar;whole milk
+beverages;bottled water;oil;rolls/buns
+cat food;hard cheese;hygiene articles;meat
+bottled beer;mayonnaise;rolls/buns;specialty fat
+mustard;newspapers;rolls/buns;vinegar
+candles;female sanitary products;meat;oil
+ice cream;newspapers;pastry;pip fruit
+baking powder;candy;other vegetables;yogurt
+chocolate;shopping bags;waffles;yogurt
+berries;beverages;napkins;pastry
+onions;sugar;whole milk;yogurt
+cat food;other vegetables;rolls/buns;soda
+berries;canned vegetables;pasta;soda
+margarine;soda;softener;whole milk
+canned beer;pot plants;sweet spreads;yogurt
+cream cheese ;flour;frozen fish;newspapers
+margarine;pastry;pastry;pastry
+bottled beer;bottled beer;domestic eggs;whole milk
+instant coffee;pastry;soft cheese;yogurt
+herbs;red/blush wine;salad dressing;specialty chocolate
+detergent;fruit/vegetable juice;whole milk;yogurt
+frozen vegetables;frozen vegetables;soda;specialty bar
+bottled beer;dishes;misc. beverages;onions
+bottled water;butter;curd;domestic eggs
+canned beer;house keeping products;margarine;whole milk

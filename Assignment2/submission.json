@@ -1,0 +1,18 @@
+{
+  "UUID": "8ef4ccbd-8dea-5402-a7a9-24e9cdd8fd91",
+  "Task1.1": {
+    "len(orders)": 2185,
+    "len(unique_items)": 163,
+    "len(mapped_records)": 2185
+  },
+  "Task1.2": {
+    "most_frequent_item": "whole milk",
+    "len(frequent_itemsets)": 163
+  },
+  "Task1.3": {
+    "recommendation_for_pastry_and_soda": "whole milk",
+    "confidence_for_recommendation_for_pastry_and_soda": 0.4375,
+    "recommendations_for_sausage": "whole milk",
+    "confidences_for_recommendations_for_sausage": 0.2727
+  }
+}

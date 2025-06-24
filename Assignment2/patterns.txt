@@ -1,0 +1,593 @@
+64:specialty chocolate
+382:yogurt
+207:bottled beer
+720:whole milk
+134:beef
+383:soda
+216:canned beer
+159:brown bread
+101:white bread
+200:frankfurter
+115:chicken
+293:tropical fruit
+140:whipped/sour cream
+68:waffles
+469:other vegetables
+83:UHT-milk
+159:butter
+234:bottled water
+85:hamburger meat
+49:soft cheese
+145:fruit/vegetable juice
+37:packaged fruit/vegetables
+80:frozen meals
+8:fish
+92:chocolate
+137:margarine
+22:canned vegetables
+56:specialty bar
+83:napkins
+28:seasonal products
+183:shopping bags
+151:curd
+70:butter milk
+66:meat
+70:long life bakery product
+212:citrus fruit
+54:sliced cheese
+125:coffee
+153:domestic eggs
+30:baking powder
+23:liquor
+58:chewing gum
+214:pastry
+297:sausage
+69:salty snack
+64:oil
+6:syrup
+151:newspapers
+33:spread cheese
+30:canned fish
+15:spices
+469:rolls/buns
+42:herbs
+280:root vegetables
+160:pork
+74:hard cheese
+42:semi-finished bread
+43:dishes
+203:pip fruit
+81:dessert
+122:frozen vegetables
+53:hygiene articles
+36:red/blush wine
+62:ham
+85:cream cheese 
+80:berries
+3:skin care
+29:condensed milk
+48:cat food
+63:grapes
+13:rice
+11:chocolate marshmallow
+56:misc. beverages
+68:beverages
+21:turkey
+13:Instant food products
+28:pickled vegetables
+77:onions
+15:zwieback
+15:curd cheese
+24:mustard
+17:specialty cheese
+45:detergent
+17:frozen potato products
+21:roll products 
+44:white wine
+43:flour
+69:sugar
+46:processed cheese
+21:finished products
+20:liver loaf
+9:nuts/prunes
+13:sparkling wine
+20:salt
+55:ice cream
+56:candy
+24:cake bar
+26:sweet spreads
+23:frozen fish
+35:pasta
+16:flower (seeds)
+21:candles
+26:frozen dessert
+17:popcorn
+2:salad dressing
+22:instant coffee
+9:sauces
+12:light bulbs
+18:liquor (appetizer)
+15:soups
+15:cling film/bags
+31:pot plants
+18:dish cleaner
+14:artif. sweetener
+16:dog food
+7:prosecco
+13:softener
+1:baby cosmetics
+14:vinegar
+21:mayonnaise
+12:male cosmetics
+5:flower soil/fertilizer
+14:brandy
+16:pet care
+11:jam
+3:rubbing alcohol
+6:organic sausage
+11:dental care
+3:bathroom cleaner
+11:female sanitary products
+13:house keeping products
+9:snack products
+7:cookware
+16:photo/film
+7:ketchup
+9:specialty fat
+7:pudding powder
+4:tea
+8:rum
+8:canned fruit
+3:tidbits
+6:kitchen towels
+8:abrasive cleaner
+6:meat spreads
+6:ready soups
+3:organic products
+2:cream
+5:cleaner
+4:potato products
+1:hair spray
+1:make up remover
+3:cocoa drinks
+1:whisky
+9:nut snack
+4:honey
+1:frozen fruits
+2:cooking chocolate
+2:decalcifier
+5:cereals
+5:soap
+1:liqueur
+1:kitchen utensil
+1:specialty vegetables
+47:sausage;rolls/buns
+22:yogurt;whipped/sour cream
+14:bottled beer;citrus fruit
+16:soda;beverages
+11:chicken;shopping bags
+21:white bread;rolls/buns
+23:soda;bottled beer
+15:yogurt;beef
+18:canned beer;tropical fruit
+15:shopping bags;citrus fruit
+21:canned beer;brown bread
+22:yogurt;pork
+12:canned beer;frankfurter
+18:yogurt;fruit/vegetable juice
+14:pip fruit;pastry
+13:coffee;sausage
+15:yogurt;domestic eggs
+11:pip fruit;fruit/vegetable juice
+23:other vegetables;whipped/sour cream
+17:soda;frozen vegetables
+16:soda;hamburger meat
+14:flour;whole milk
+18:oil;whole milk
+11:soft cheese;whole milk
+19:other vegetables;hard cheese
+14:brown bread;citrus fruit
+33:tropical fruit;sausage
+11:pip fruit;margarine
+46:yogurt;tropical fruit
+13:domestic eggs;bottled beer
+107:other vegetables;whole milk
+14:specialty bar;whole milk
+11:misc. beverages;whole milk
+30:yogurt;bottled beer
+28:pastry;sausage
+11:curd;margarine
+13:yogurt;chewing gum
+19:margarine;rolls/buns
+19:berries;whole milk
+17:domestic eggs;root vegetables
+17:other vegetables;hamburger meat
+113:whole milk;rolls/buns
+15:pastry;canned beer
+27:yogurt;canned beer
+13:frozen vegetables;citrus fruit
+14:ice cream;whole milk
+28:domestic eggs;rolls/buns
+44:whole milk;pork
+19:root vegetables;newspapers
+14:butter milk;whole milk
+24:tropical fruit;citrus fruit
+30:yogurt;pip fruit
+15:soda;sugar
+12:bottled water;brown bread
+13:curd;frankfurter
+29:other vegetables;curd
+45:domestic eggs;whole milk
+17:citrus fruit;beef
+25:chocolate;rolls/buns
+18:soda;coffee
+21:soda;brown bread
+12:beef;root vegetables
+14:processed cheese;whole milk
+16:brown bread;frankfurter
+31:yogurt;pastry
+18:bottled water;curd
+11:UHT-milk;sausage
+19:shopping bags;sausage
+26:soda;pip fruit
+15:frozen vegetables;root vegetables
+24:chicken;rolls/buns
+27:other vegetables;margarine
+12:soda;long life bakery product
+57:soda;rolls/buns
+15:curd;pip fruit
+12:margarine;pastry
+28:bottled water;yogurt
+13:chocolate;sausage
+25:onions;whole milk
+33:chicken;whole milk
+14:soda;frozen meals
+14:other vegetables;dessert
+13:other vegetables;UHT-milk
+22:soda;whipped/sour cream
+22:chocolate;whole milk
+12:whipped/sour cream;frankfurter
+12:napkins;tropical fruit
+16:pip fruit;canned beer
+14:soda;white bread
+14:pastry;brown bread
+23:pastry;root vegetables
+25:pastry;tropical fruit
+32:yogurt;citrus fruit
+27:other vegetables;domestic eggs
+12:dessert;sausage
+11:bottled beer;pip fruit
+13:other vegetables;chocolate
+13:sausage;citrus fruit
+17:whipped/sour cream;root vegetables
+12:salty snack;yogurt
+11:dishes;whole milk
+15:whipped/sour cream;citrus fruit
+13:yogurt;chocolate
+12:brown bread;tropical fruit
+13:hard cheese;rolls/buns
+12:yogurt;butter milk
+29:margarine;whole milk
+26:curd;sausage
+12:beverages;sausage
+14:yogurt;hamburger meat
+16:butter;root vegetables
+23:shopping bags;tropical fruit
+15:yogurt;frozen vegetables
+15:coffee;tropical fruit
+23:soda;margarine
+16:margarine;sausage
+67:yogurt;rolls/buns
+12:shopping bags;butter
+12:chicken;bottled beer
+21:bottled water;sausage
+27:whole milk;white bread
+12:soda;berries
+13:other vegetables;napkins
+12:berries;rolls/buns
+25:soda;domestic eggs
+53:soda;sausage
+11:chicken;tropical fruit
+13:canned beer;white bread
+40:soda;tropical fruit
+12:hamburger meat;rolls/buns
+12:detergent;whole milk
+13:bottled beer;margarine
+13:canned beer;shopping bags
+18:bottled water;frankfurter
+29:brown bread;rolls/buns
+11:other vegetables;specialty bar
+29:bottled beer;sausage
+14:pip fruit;shopping bags
+16:whole milk;meat
+12:chicken;canned beer
+15:canned beer;frozen vegetables
+19:frozen meals;whole milk
+31:tropical fruit;root vegetables
+23:root vegetables;frankfurter
+17:cream cheese ;whole milk
+36:other vegetables;pip fruit
+11:tropical fruit;waffles
+12:brown bread;shopping bags
+11:pip fruit;frozen vegetables
+20:citrus fruit;frankfurter
+12:shopping bags;frankfurter
+14:pip fruit;brown bread
+27:yogurt;shopping bags
+16:bottled beer;canned beer
+13:soda;dessert
+11:canned beer;whipped/sour cream
+14:sausage;fruit/vegetable juice
+11:hamburger meat;root vegetables
+21:bottled water;pastry
+19:whole milk;chewing gum
+16:other vegetables;oil
+14:coffee;root vegetables
+16:grapes;whole milk
+47:whole milk;frankfurter
+37:soda;bottled water
+14:hamburger meat;tropical fruit
+13:canned beer;newspapers
+11:bottled beer;fruit/vegetable juice
+58:other vegetables;sausage
+13:frozen meals;rolls/buns
+13:bottled water;pip fruit
+51:bottled water;whole milk
+39:other vegetables;bottled water
+16:bottled water;butter
+44:soda;yogurt
+21:other vegetables;beef
+28:rolls/buns;pork
+12:pip fruit;citrus fruit
+32:pastry;rolls/buns
+26:soda;butter
+15:napkins;rolls/buns
+11:canned beer;butter
+29:other vegetables;bottled beer
+12:oil;rolls/buns
+19:curd;tropical fruit
+16:bottled beer;butter
+29:coffee;whole milk
+15:shopping bags;pork
+11:candy;rolls/buns
+13:soda;chicken
+23:other vegetables;white bread
+19:butter;citrus fruit
+13:other vegetables;meat
+16:coffee;pastry
+11:yogurt;detergent
+20:whole milk;long life bakery product
+11:curd;pork
+12:margarine;pork
+27:shopping bags;root vegetables
+45:other vegetables;root vegetables
+12:canned beer;fruit/vegetable juice
+24:whole milk;ham
+12:margarine;beef
+48:other vegetables;tropical fruit
+13:napkins;whole milk
+25:soda;pork
+15:yogurt;berries
+13:margarine;root vegetables
+12:tropical fruit;frankfurter
+13:yogurt;candy
+15:candy;whole milk
+30:sausage;root vegetables
+12:onions;root vegetables
+12:UHT-milk;root vegetables
+15:other vegetables;berries
+55:pastry;whole milk
+12:yogurt;cream cheese 
+29:yogurt;root vegetables
+34:shopping bags;rolls/buns
+12:margarine;butter
+23:rolls/buns;newspapers
+12:tropical fruit;beef
+17:pip fruit;frankfurter
+11:bottled water;chocolate
+11:bottled water;margarine
+11:pastry;whipped/sour cream
+15:pastry;citrus fruit
+14:margarine;frankfurter
+15:bottled beer;frankfurter
+22:bottled beer;tropical fruit
+26:canned beer;sausage
+11:canned beer;butter milk
+16:bottled water;domestic eggs
+17:onions;rolls/buns
+18:yogurt;curd
+65:whole milk;tropical fruit
+15:tropical fruit;newspapers
+15:soda;beef
+29:citrus fruit;rolls/buns
+25:hamburger meat;whole milk
+12:margarine;shopping bags
+21:bottled beer;root vegetables
+14:other vegetables;onions
+11:bottled water;coffee
+15:tropical fruit;pork
+57:other vegetables;yogurt
+12:curd;white bread
+15:whole milk;hygiene articles
+53:bottled beer;whole milk
+11:domestic eggs;canned beer
+12:butter;frankfurter
+13:cream cheese ;tropical fruit
+14:coffee;frankfurter
+40:whole milk;beef
+21:yogurt;margarine
+11:pastry;napkins
+37:other vegetables;shopping bags
+11:specialty chocolate;yogurt
+11:pip fruit;whipped/sour cream
+32:bottled water;rolls/buns
+17:sausage;frankfurter
+15:cream cheese ;root vegetables
+52:yogurt;sausage
+24:frozen vegetables;rolls/buns
+11:pastry;pork
+13:whipped/sour cream;newspapers
+59:whole milk;citrus fruit
+23:butter;rolls/buns
+21:canned beer;root vegetables
+18:butter;sausage
+13:bottled water;shopping bags
+32:soda;pastry
+38:other vegetables;citrus fruit
+19:salty snack;whole milk
+51:tropical fruit;rolls/buns
+20:other vegetables;fruit/vegetable juice
+38:brown bread;whole milk
+24:yogurt;newspapers
+31:rolls/buns;frankfurter
+21:pastry;newspapers
+17:other vegetables;frozen meals
+26:soda;shopping bags
+91:soda;whole milk
+27:bottled water;root vegetables
+14:berries;tropical fruit
+12:chicken;citrus fruit
+19:UHT-milk;whole milk
+19:dessert;whole milk
+13:salty snack;rolls/buns
+14:bottled beer;shopping bags
+33:soda;root vegetables
+17:sausage;pork
+15:semi-finished bread;whole milk
+26:soda;citrus fruit
+13:whipped/sour cream;beef
+19:whole milk;sugar
+11:chicken;frankfurter
+12:soda;fruit/vegetable juice
+11:shopping bags;newspapers
+17:pip fruit;tropical fruit
+18:dessert;rolls/buns
+18:other vegetables;cream cheese 
+16:other vegetables;waffles
+15:specialty chocolate;citrus fruit
+96:yogurt;whole milk
+15:brown bread;pork
+13:misc. beverages;rolls/buns
+12:bottled water;chicken
+81:whole milk;sausage
+11:other vegetables;butter milk
+23:other vegetables;butter
+13:onions;tropical fruit
+11:brown bread;root vegetables
+21:whipped/sour cream;rolls/buns
+18:beverages;whole milk
+15:bottled water;newspapers
+14:yogurt;napkins
+15:pip fruit;pork
+15:citrus fruit;pork
+11:bottled water;sugar
+56:canned beer;whole milk
+17:tropical fruit;fruit/vegetable juice
+13:sausage;white bread
+18:yogurt;butter
+45:root vegetables;rolls/buns
+11:bottled beer;UHT-milk
+12:specialty chocolate;tropical fruit
+26:bottled water;tropical fruit
+13:beef;newspapers
+38:whole milk;newspapers
+14:yogurt;coffee
+13:chicken;sausage
+13:fruit/vegetable juice;root vegetables
+35:canned beer;rolls/buns
+14:yogurt;chicken
+44:other vegetables;frankfurter
+13:root vegetables;pork
+12:other vegetables;grapes
+17:pastry;frankfurter
+12:yogurt;UHT-milk
+11:domestic eggs;newspapers
+26:curd;rolls/buns
+15:onions;yogurt
+17:pastry;butter
+11:specialty chocolate;rolls/buns
+16:yogurt;brown bread
+21:other vegetables;chicken
+20:bottled water;bottled beer
+23:yogurt;frankfurter
+18:canned beer;pork
+18:UHT-milk;rolls/buns
+37:pip fruit;rolls/buns
+11:specialty chocolate;whole milk
+19:whipped/sour cream;sausage
+64:other vegetables;soda
+13:shopping bags;beef
+32:whole milk;whipped/sour cream
+17:other vegetables;salty snack
+12:soda;butter milk
+52:pip fruit;whole milk
+13:beverages;rolls/buns
+13:domestic eggs;shopping bags
+27:other vegetables;newspapers
+19:pip fruit;sausage
+36:curd;whole milk
+20:bottled water;citrus fruit
+14:bottled beer;brown bread
+44:shopping bags;whole milk
+34:other vegetables;pork
+23:soda;canned beer
+12:yogurt;hard cheese
+13:canned beer;citrus fruit
+23:pip fruit;root vegetables
+11:processed cheese;rolls/buns
+14:butter;fruit/vegetable juice
+12:other vegetables;ham
+15:brown bread;sausage
+15:bottled beer;newspapers
+13:curd;root vegetables
+12:domestic eggs;frankfurter
+16:tropical fruit;whipped/sour cream
+38:butter;whole milk
+13:bottled beer;beef
+28:soda;frankfurter
+16:domestic eggs;sausage
+24:other vegetables;frozen vegetables
+56:whole milk;root vegetables
+27:fruit/vegetable juice;rolls/buns
+19:coffee;rolls/buns
+77:other vegetables;rolls/buns
+12:sausage;newspapers
+18:soda;newspapers
+16:citrus fruit;root vegetables
+11:frozen meals;sausage
+16:yogurt;soft cheese
+15:brown bread;beef
+31:other vegetables;pastry
+13:beef;frankfurter
+30:other vegetables;canned beer
+31:frozen vegetables;whole milk
+22:domestic eggs;tropical fruit
+19:soda;curd
+15:hard cheese;whole milk
+16:whole milk;waffles
+19:other vegetables;coffee
+39:bottled beer;rolls/buns
+19:frozen vegetables;sausage
+24:other vegetables;brown bread
+44:whole milk;fruit/vegetable juice
+12:butter;tropical fruit
+17:ice cream;rolls/buns
+16:bottled beer;pastry
+12:soda;whole milk;rolls/buns
+11:soda;bottled water;whole milk
+11:other vegetables;whole milk;frankfurter
+14:soda;pastry;whole milk
+16:soda;whole milk;sausage
+12:yogurt;whole milk;tropical fruit
+11:pastry;whole milk;rolls/buns
+19:yogurt;whole milk;rolls/buns
+14:other vegetables;soda;whole milk
+13:other vegetables;sausage;rolls/buns
+15:whole milk;sausage;rolls/buns
+12:soda;yogurt;whole milk
+14:other vegetables;whole milk;sausage
+17:other vegetables;yogurt;whole milk
+14:other vegetables;soda;rolls/buns
+17:other vegetables;whole milk;rolls/buns
+11:other vegetables;whole milk;tropical fruit
+20:yogurt;whole milk;sausage
