@@ -4,7 +4,7 @@ This repository contains all assignments and project work completed for the **Fo
 
 ---
 
-## 🧠 Topics Covered
+### 🧠 Topics Covered
 
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
@@ -19,13 +19,13 @@ This repository contains all assignments and project work completed for the **Fo
   - Hierarchical Clustering
   - Principal Component Analysis (PCA)
 
-# 📌 Assignment 1 – Supervised Learning (Foundations of Data Analysis)
+## 📌 Assignment 1 – Supervised Learning
 
 This assignment explores various **supervised learning algorithms** using a real-world dataset. The objective is to classify disease types based on input features using different classifiers and to evaluate their performance using relevant metrics.
 
 ---
 
-## 📚 Topics Covered
+### 📚 Topics Covered
 
 - Data cleaning and preprocessing
 - Train/test splitting
@@ -47,7 +47,7 @@ This assignment explores various **supervised learning algorithms** using a real
 
 ---
 
-## 📁 Files
+### 📁 Files
 
 | File | Description |
 |------|-------------|
@@ -60,7 +60,7 @@ This assignment explores various **supervised learning algorithms** using a real
 
 ---
 
-## 🔍 Key Findings
+### 🔍 Key Findings
 
 - Decision Trees showed high accuracy but risked overfitting on small data.
 - Logistic Regression performed well with regularization applied.
@@ -69,7 +69,7 @@ This assignment explores various **supervised learning algorithms** using a real
 
 ---
 
-## 🛠 Technologies Used
+### 🛠 Technologies Used
 
 - Python 3
 - Jupyter Notebooks
@@ -80,13 +80,13 @@ This assignment explores various **supervised learning algorithms** using a real
 ---
 
 
-# 📌 Assignment 2 – Unsupervised Learning & Data Preprocessing (Foundations of Data Analysis)
+## 📌 Assignment 2 – Unsupervised Learning & Data Preprocessing (Foundations of Data Analysis)
 
 This assignment builds on earlier data analysis skills and introduces **unsupervised learning techniques** for grouping and exploring complex datasets. It also reinforces best practices for **data cleaning, transformation, and feature engineering**.
 
 ---
 
-## 📚 Topics Covered
+### 📚 Topics Covered
 
 - Data preprocessing & cleaning
 - Dimensionality reduction
@@ -99,7 +99,7 @@ This assignment builds on earlier data analysis skills and introduces **unsuperv
 
 ---
 
-## 📁 Contents
+### 📁 Contents
 
 | File | Description |
 |------|-------------|
@@ -109,7 +109,7 @@ This assignment builds on earlier data analysis skills and introduces **unsuperv
 
 ---
 
-## 🔍 Key Highlights
+### 🔍 Key Highlights
 
 - Applied **PCA** to reduce dimensionality and improve clustering results.
 - Used **k-means** to uncover natural groupings in the dataset and validated with **silhouette score**.
@@ -119,20 +119,13 @@ This assignment builds on earlier data analysis skills and introduces **unsuperv
 
 ---
 
-## 🛠 Tools & Libraries Used
+### 🛠 Tools & Libraries Used
 
 - Python 3
 - Jupyter Notebooks
 - pandas, NumPy
 - matplotlib, seaborn
 - scikit-learn
-
----
-
-## 👤 Author
-
-**Name**: Yernaz Togizbayev  
-**Course**: Foundations of Data Analysis  
 
 ---
 
